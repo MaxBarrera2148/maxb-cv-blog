@@ -186,16 +186,16 @@
       "company": {
         "name": "Blue Coding",
         "logoHeight": 40,
-        "logo": "Blue-Coding-Logo-Color.png",
-        "period": "March 2018 - now"
+        "logo": "",
+        "period": "January 2020 - April 2021"
       },
       "projects": [
         {
-          "name": "CleverBridge",
+          "name": "BlueCoding",
           "logoHeight": 40,
-          "logo": "cleverbridge.svg",
-          "role": "JavaScript Tech Leader",
-          "description": "All-in-one ecommerce and subscription billing solution for software, SaaS & digital goods.",
+          "logo": "Blue-Coding-Logo-Color.png",
+          "role": "Marketing Coordinator",
+          "description": "Nearshore staff augmentation and recruiting solutions",
           "stack": {
             "me": ["React JS", "Redux", "Apollo", "GraphQL", "Webpack", "AntD"],
             "all": [".Net"]
@@ -218,16 +218,16 @@
       "company": {
         "name": "Resolve Digital",
         "logoHeight": 30,
-        "logo": "resolve-digital-logo.svg",
-        "period": "August 2016 - March 2018"
+        "logo": "",
+        "period": "January 2020 - July 2020"
       },
       "projects": [
         {
-          "name": "Herofi",
+          "name": "ResolveDigital",
           "logoHeight": 35,
-          "logo": "herofi.svg",
-          "role": "JavaScript Tech Leader",
-          "description": "HEROFi combines visual media and data visualization to create the most advanced retail entertainment networks in the world.",
+          "logo": "resolve-digital-logo.svg",
+          "role": "Marketing Coordinator",
+          "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
             "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
             "all": ["AWS"]
@@ -250,16 +250,16 @@
       "company": {
         "name": "Predictable Revenue",
         "logoHeight": 40,
-        "logo": "predictable-revenue-logo.png",
-        "period": "June 2014 - August 2016"
+        "logo": "",
+        "period": "November 2018 - December 2019"
       },
       "projects": [
         {
-          "name": "SportChek",
+          "name": "Predictable Revenue",
           "logoHeight": 40,
-          "logo": "sportchek.svg",
-          "role": "JavaScript Team Leader",
-          "description": "Interactive kiosk with multiple screens",
+          "logo": "predictable-revenue-logo.png",
+          "role": "Marketing Coordinator",
+          "description": "Helping companies capture revenue through outbound sales development",
           "stack": {
             "me": ["Angular.js", "meteor.js", "REST", "Socket.io", "Stylus", "Gulp"]
           }
