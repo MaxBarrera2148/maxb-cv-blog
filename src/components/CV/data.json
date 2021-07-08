@@ -308,55 +308,6 @@
           }
         }
       ]
-    },
-    {
-      "company": {
-        "name": "LUXOFT",
-        "period": "March 2011 - January 2013",
-        "logoHeight": 70,
-        "logo": "luxoft.svg"
-      },
-      "projects": [
-        {
-          "name": "Medialogia",
-          "logoHeight": 40,
-          "logo": "medialogia.svg",
-          "role": "Web developer",
-          "description": "Service for evaluating the effectiveness of communications #1 in terms of sources: 800 million SOCMEDIA and 49000 mass media",
-          "stack": {
-            "me": ["Backbone.js", "REST", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": [".Net"]
-          }
-        },
-        {
-          "name": "Hotwire",
-          "logoHeight": 40,
-          "logo": "hotwire.svg",
-          "role": "Web developer",
-          "description": "Hotwire is a travel website that can be used to book airline tickets, hotel rooms, rental cars, and vacation packages. It operates by selling off unsold travel inventory at discounted prices.",
-          "stack": {
-            "me": ["Javascript", "CSS", "JSP"],
-            "all": ["Java", "Spring"]
-          }
-        }
-      ]
-    },
-    {
-      "company": {
-        "name": "ISRA Group",
-        "period": "June 2009 - March 2011"
-      },
-      "projects": [
-        {
-          "name": "Trading systems",
-          "role": "HTML developer",
-          "description": "Trading systems",
-          "stack": {
-            "me": ["Wordpress", "Drupal", "Joomla", "jQuery", "Bootstrap", "HTML", "CSS"],
-            "all": ["PHP"]
-          }
-        }
-      ]
     }
   ],
   "volunteer": [
