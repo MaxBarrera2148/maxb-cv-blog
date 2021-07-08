@@ -1,22 +1,22 @@
 {
   "header": {
-    "name": "MARAT DOSPOLOV",
-    "position": "JAVASCRIPT TECH LEADER",
+    "name": "MAX BARRERA",
+    "position": "DIGITAL MARKETER",
     "img": {
       "src": "/photo.jpg",
-      "alt": "Marat Dospolov"
+      "alt": "Max Barrera"
     },
-    "location": "Ukraine, Kyiv",
+    "location": "Cancun, Mexico",
     "contacts": [
       {
-        "type": "telegram",
-        "link": "https://t.me/dospolov",
-        "linkName": "dospolov"
+        "type": "linkedin",
+        "link": "www.linkedin.com/in/maxb-2148",
+        "linkName": "maxb-2148"
       },
       {
         "type": "github",
-        "link": "https://github.com/dospolov",
-        "linkName": "dospolov"
+        "link": "https://github.com/MaxBarrera2148",
+        "linkName": "MaxBarrera2148"
       }
     ]
   },
