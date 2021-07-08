@@ -184,7 +184,7 @@
   "experience": [
     {
       "company": {
-        "name": "N-iX",
+        "name": "Blue Coding",
         "logoHeight": 40,
         "logo": "n-ix.svg",
         "period": "March 2018 - now"
@@ -216,7 +216,7 @@
     },
     {
       "company": {
-        "name": "MOQOD",
+        "name": "Resolve Digital",
         "logoHeight": 30,
         "logo": "moqod.png",
         "period": "August 2016 - March 2018"
@@ -248,7 +248,7 @@
     },
     {
       "company": {
-        "name": "EPAM",
+        "name": "Predictable Revenue",
         "logoHeight": 40,
         "logo": "epam.svg",
         "period": "June 2014 - August 2016"
@@ -279,7 +279,7 @@
     },
     {
       "company": {
-        "name": "CIKLUM",
+        "name": "Administrative Software Applications",
         "period": "January 2013 - June 2014",
         "logoHeight": 50,
         "logo": "ciklum.svg"
@@ -361,54 +361,54 @@
   ],
   "volunteer": [
     {
-      "place": "Bionic University",
-      "logo": "bionic.png",
+      "place": "",
+      "logo": "",
       "logoHeight": 50,
-      "period": "2015",
-      "description": "I conducted a series of lectures for BIONIC University. Main topics: HTML / CSS / jQuery / Handlebars / Ajax / Production experience / Best practices"
+      "period": "",
+      "description": ""
     }
   ],
   "education": [
     {
-      "place": "Kiev Institute of Business and Technologies (KIBT)",
-      "period": "2012 - 2014",
-      "degree": "Bachelor's Degree, Management, Managment of business activities"
+      "place": "",
+      "period": "",
+      "degree": ""
     },
     {
-      "place": "Moscow State Institute of Radio engineering, Electronics and Automation (MIREA)",
-      "period": "2007 - 2012",
-      "degree": "Master's Degree, Computer Science And Information Technologies, Software and computing systems (software engineer)"
+      "place": "",
+      "period": "",
+      "degree": ""
     }
   ],
   "recommendations": [
     {
-      "name": "Alexey Morozov",
-      "jobTitle": "Delivery Manager",
+      "name": "David Hemmat",
+      "jobTitle": "CEO of Blue Coding (& Resolve Digital)",
       "photo": "alex.jpg",
-      "linkedin": "https://www.linkedin.com/in/morozovalexey/",
-      "text": "I've worked with or around Marat at N-iX for about a year and I've been consistently impressed with his passion and drive for quality software. He strives for excellence in all he does is able to build quality into everything he works on.\n\n Moreover, we've been working together on several projects before N-iX and Marat led all of them to a production-ready solution that was scalable and ready to bring value to the business. As a Technical Lead Marat was able to take the idea from Stakeholders, introduce decomposition and deliver the end-solution. He was responsible for technical excellence and people management within the team. He guided everyone towards one end goal!"
+      "linkedin": "https://www.linkedin.com/in/dhemmat/",
+      "text": "Max was great to work with. He provided our team with a level of expertise in digital marketing that was highly valuable to us. Max led efforts related to inbound lead generation through our website, SEO and online presence, and was able to achieve important results in the improvement of our technical SEO and general website usability. Max worked closely with different teams across the organization to help coordinate the needs of the different departments related to our website (sales, marketing and recruitment)."
     },
     {
-      "name": "Nikolay Mirkula",
-      "jobTitle": "Software Engineer",
+      "name": "Shelley Mossman",
+      "jobTitle": "Customer Success Manager at Administrative Software Applications (ASA)",
       "photo": "nick.jpg",
-      "linkedin": "https://www.linkedin.com/in/nikolay-mirkula-bb0b9ab6/",
-      "text": "Marat is an amazing professional, who brings all of the skills and expertise in programming and web development. His productivity and ambition sets a great example for the rest of the team. It was indeed a wonderful thing to work with him as the Lead Frontend Engineer at Moqod company.\n\n As a colleague, I recommend him to other institutions who may want to hire his most treasured skills"
+      "linkedin": "https://www.linkedin.com/in/shelleymossman/",
+      "text": "The most valuable characteristics I see in Max are his integrity, his work ethic and his perceptive understanding of others’ needs. Coworkers and clients trust his word, they appreciate his willingness to work hard to achieve the right solution, and they truly benefit from his ability to understand what the client or co-worker needs. I would highly recommend Max to become a productive and valuable member of any business team."
     },
     {
-      "name": "Michael Sebastiyan",
-      "jobTitle": "Senior Software Engineer",
-      "photo": "mike.jpg",
-      "linkedin": "https://www.linkedin.com/in/msebastiyan/",
-      "text": "Marat is an excellent software engineer. He's very passionate about tech, building great user experiences, and improving the project codebase. He's a very high value add to every team he works on."
+      "name": "",
+      "jobTitle": "",
+      "photo": "",
+      "linkedin": "",
+      "text": ""
     },
     {
-      "name": "Sergii Kalashnykov",
-      "jobTitle": "Test Engineer",
-      "photo": "sergii.jpg",
-      "linkedin": "https://www.linkedin.com/in/skalashnikov/",
-      "text": "It was a pleasure working with Marat. He is a very talented passionate JavaScript developer, and a good friend. During that time I was impressed with his skill set and the way he could think through problems and find a solution for them. I would be happy to work with him again in the future."
+      "name": "",
+      "jobTitle": "",
+      "photo": "",
+      "linkedin": "",
+      "text": ""
     }
   ],
-  "footer": "Dospolov.com © 2020"
+  "footer": "maxb.netlify.app © 2020"
 }
