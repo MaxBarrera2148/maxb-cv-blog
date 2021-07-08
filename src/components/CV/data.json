@@ -217,14 +217,14 @@
     {
       "company": {
         "name": "Resolve Digital",
-        "logoHeight": 30,
+        "logoHeight": 40,
         "logo": "",
         "period": "January 2020 - July 2020"
       },
       "projects": [
         {
           "name": "ResolveDigital",
-          "logoHeight": 35,
+          "logoHeight": 40,
           "logo": "resolve-digital-logo.svg",
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
@@ -281,7 +281,7 @@
       "company": {
         "name": "Administrative Software Applications",
         "period": "January 2013 - June 2014",
-        "logoHeight": 50,
+        "logoHeight": 40,
         "logo": "descarga-removebg-preview.png"
       },
       "projects": [
