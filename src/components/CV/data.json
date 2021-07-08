@@ -45,7 +45,7 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": "My passions are — web-development, cognitive biases and anthropology.",
+  "pitchLine": "My passions are — SEO, marketing, design, and web development.",
   "topTech": [
     "react",
     "graphql",
@@ -54,7 +54,7 @@
     "reduxsaga",
     "electron",
     "gatsby",
-    "antd"
+    "netlify"
   ],
   "tech": {
     "react": {
@@ -103,7 +103,7 @@
       "name": "Ant Design",
       "logo": "ant-design.svg",
       "website": "https://ant.design/",
-      "displayInTopList": true
+      "displayInTopList": false
     },
     "fabric": {
       "name": "Fabric UI",
@@ -115,7 +115,7 @@
       "name": "Netlify",
       "logo": "netlify.svg",
       "website": "https://www.netlify.com/",
-      "displayInTopList": false
+      "displayInTopList": true
     }
   },
   "skills": {
