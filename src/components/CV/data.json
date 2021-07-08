@@ -218,7 +218,7 @@
       "company": {
         "name": "Resolve Digital",
         "logoHeight": 30,
-        "logo": "moqod.png",
+        "logo": "resolve-digital-logo.svg",
         "period": "August 2016 - March 2018"
       },
       "projects": [
@@ -250,7 +250,7 @@
       "company": {
         "name": "Predictable Revenue",
         "logoHeight": 40,
-        "logo": "epam.svg",
+        "logo": "predictable-revenue-logo.png",
         "period": "June 2014 - August 2016"
       },
       "projects": [
