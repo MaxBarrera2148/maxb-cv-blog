@@ -221,7 +221,7 @@
         {
           "name": "ResolveDigital",
           "logoHeight": 40,
-          "logo": "",
+          "logo": "resolve-digital-logo 1.svg",
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
