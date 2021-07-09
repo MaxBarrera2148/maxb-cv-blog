@@ -100,9 +100,9 @@
       "displayInTopList": true
     },
     "antd": {
-      "name": "Ant Design",
-      "logo": "ant-design.svg",
-      "website": "https://ant.design/",
+      "name": "Sass",
+      "logo": "sass-1.svg",
+      "website": "https://sass-lang.com/",
       "displayInTopList": false
     },
     "fabric": {
