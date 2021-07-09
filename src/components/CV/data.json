@@ -242,37 +242,7 @@
         }
       ]
     },
-    {
-      "company": {
-        "name": "Predictable Revenue",
-        "logoHeight": 40,
-        "logo": "",
-        "period": "November 2018 - December 2019"
-      },
-      "projects": [
-        {
-          "name": "Predictable Revenue",
-          "logoHeight": 40,
-          "logo": "",
-          "role": "Marketing Coordinator",
-          "description": "Helping companies capture revenue through outbound sales development",
-          "stack": {
-            "me": ["Angular.js", "meteor.js", "REST", "Socket.io", "Stylus", "Gulp"]
-          }
-        },
-              {
-          "name": "Adidas",
-          "logoHeight": 60,
-          "logo": "adidas.svg",
-          "role": "Senior JavaScript developer",
-          "description": "Marketing portal for Adidas Group",
-          "stack": {
-            "me": ["Backbone.js", "Marionette.js", "REST", "Stylus", "Gulp"],
-            "all": ["Java"]
-          }
-        }
-      ]
-    },
+  
         
     {
       "company": {
