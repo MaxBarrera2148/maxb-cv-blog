@@ -317,14 +317,24 @@
   ],
   "education": [
     {
-      "place": "",
+      "place": "Google",
       "period": "",
-      "degree": ""
+      "degree": "Advanced Google Analytics, Google Ads Search Certificate, Google Ads Display Certificate, Google Ads - Measurement Certificate, Google Tag Manager Fundamentals, Fundamentals of Digital Marketing Certificate (Google Digital Garage)"
     },
     {
-      "place": "",
+      "place": "Hubspot",
       "period": "",
-      "degree": ""
+      "degree": "Inbound Certificate, Email Marketing Certificate, Social Media Marketing Certificate, Inbound Sales Certificate, Inbound Methodology Certificate"
+    },
+    {
+      "place": "SEMrush Academy",
+      "period": "",
+      "degree": "Technical SEO, Link Building, Backlink Management, Competitive Analysis & Keyword Research, Mobile SEO, Content Marketing & SEO Fundamentals, Keyword Research, On-page Technical SEO, SEO Fundamentals Exam"
+    }
+    {
+      "place": "Free Code Camp",
+      "period": "",
+      "degree": "Responsive Web Design"
     }
   ],
   "recommendations": [
