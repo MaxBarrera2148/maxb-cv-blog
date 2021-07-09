@@ -76,9 +76,9 @@
       "displayInTopList": true
     },
     "redux": {
-      "name": "Redux",
-      "logo": "redux.svg",
-      "website": "https://redux.js.org/",
+      "name": "Search Console",
+      "logo": "google-search-console.svg",
+      "website": "https://search.google.com/search-console/about",
       "displayInTopList": true
     },
     "reduxsaga": {
