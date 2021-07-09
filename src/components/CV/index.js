@@ -26,7 +26,7 @@ const CV = () => (
       {data.tech && data.topTech && <TopTech topTech={data.topTech} tech={data.tech} />}
       {data.skills && <SkillList skills={data.skills} />}
       {data.experience && <Experience experience={data.experience} />}
-      {data.volunteer && <Volunteer volunteer={data.volunteer} />}
+   
       {data.education && <Education education={data.education} />}
       {data.recommendations && <Recommendations recommendations={data.recommendations} />}
       {data.footer && <Footer footer={data.footer} />}
