@@ -1,12 +1,12 @@
 module.exports = {
   url: 'https://gatsby-starter-blog-and-cv.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by Marat Dospolov',
+  title: 'Blog by Max Barrera',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
-  subtitle: 'Developer. Optimizer. Learner.',
-  copyright: '© 2020 | Kyiv, Ukraine',
-  disqusShortname: 'dospolov',
+    'marketing freelancer, seo expert, content writer',
+  subtitle: 'Marketer. Optimizer. Learner.',
+  copyright: '© 2020 | Cancun, Mexico',
+  disqusShortname: 'Max',
   postsPerPage: 20,
   googleAnalyticsId: 'UA-6589522-7',
   menu: [
@@ -20,7 +20,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Marat Dospolov',
+    name: 'Max Barrera',
     photo: '/photo.jpg',
     bio: 'Marketer. Optimizer. Learner.',
     contacts: {
