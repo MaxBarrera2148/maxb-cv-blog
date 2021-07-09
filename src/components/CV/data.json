@@ -260,16 +260,7 @@
             "me": ["Angular.js", "meteor.js", "REST", "Socket.io", "Stylus", "Gulp"]
           }
         },
-        {
-          "name": "Adidas",
-          "logoHeight": 60,
-          "logo": "adidas.svg",
-          "role": "Senior JavaScript developer",
-          "description": "Marketing portal for Adidas Group",
-          "stack": {
-            "me": ["Backbone.js", "Marionette.js", "REST", "Stylus", "Gulp"],
-            "all": ["Java"]
-          }
+
         }
       ]
     },
