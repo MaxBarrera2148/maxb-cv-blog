@@ -70,9 +70,9 @@
       "displayInTopList": true
     },
     "apollo": {
-      "name": "Apollo",
+      "name": "Analytics",
       "logo": "google_analytics-icon.svg",
-      "website": "https://www.apollographql.com/",
+      "website": "http://analytics.google.com/",
       "displayInTopList": true
     },
     "redux": {
