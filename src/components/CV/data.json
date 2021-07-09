@@ -88,9 +88,9 @@
       "displayInTopList": true
     },
     "electron": {
-      "name": "Electron",
-      "logo": "electron.svg",
-      "website": "https://www.electronjs.org/",
+      "name": "Bootstrap 5",
+      "logo": "bootstrap-5-1.svg",
+      "website": "https://getbootstrap.com/",
       "displayInTopList": true
     },
     "gatsby": {
