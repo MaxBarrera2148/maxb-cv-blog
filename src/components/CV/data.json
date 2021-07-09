@@ -243,39 +243,8 @@
       ]
     },
   
-            {
-      "company": {
-        "name": "Administrative Software Applications",
-        "period": "January 2013 - June 2014",
-        "logoHeight": 40,
-        "logo": ""
-      },
-      "projects": [
-        {
-          "name": "",
-          "logoHeight": 40,
-          "logo": "",
-          "role": "Senior JavaScript Developer",
-          "description": "Cutco’s product line includes kitchen knives and utensils, shears, flatware, cookware and sporting knives.",
-          "stack": {
-            "me": ["Ember.js", "REST", "HTML", "SASS"],
-            "all": ["Java"]
-          }
-        },
-        {
-          "name": "",
-          "logoHeight": 30,
-          "logo": "",
-          "role": "",
-          "description": "",
-          "stack": {
-            "me": ["jQuery", "HTML", "SASS", "Django", "Bootstrap", "Twig"],
-            "all": ["PHP", "Symphony"]
-          }
-        }
-      ]
-
-    }
+  
+    
   ],
   "volunteer": [
     {
