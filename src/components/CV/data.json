@@ -123,22 +123,21 @@
       "featured": [
         "Focus on business needs",
         "Team building / Leadership",
-        "Coaching",
         "Decision making",
         "Communication",
         "Integrity"
       ],
       "other": [
         "Scheduling",
-        "Risk Management",
+        "Adaptability",
         "Critical Thinking",
         "Problem Solving",
-        "Project Recovery",
+        "Curiosity",
         "Task Management",
         "Business Process Improvement",
-        "Budgeting",
-        "UX Prototyping",
-        "Requirements Analysis",
+        "Creativity",
+        "Team Work",
+        "Critical Thinking",
         "Conflict Management",
         "Policy Knowledge"
       ]
@@ -170,6 +169,10 @@
         "Adobe XD",
         "Canva",
         "CSS 3",
+        "Bootstrap 5",
+        "Javascript",
+        "React",
+        "Sass",
         "HTML 5"
       ]
     }
