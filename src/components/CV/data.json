@@ -214,14 +214,14 @@
       "company": {
         "name": "Resolve Digital",
         "logoHeight": 40,
-        "logo": "",
+        "logo": "resolve-digital-logo 1.svg",
         "period": "January 2020 - July 2020"
       },
       "projects": [
         {
           "name": "ResolveDigital",
           "logoHeight": 40,
-          "logo": "resolve-digital-logo 1.svg",
+          "logo": "",
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
