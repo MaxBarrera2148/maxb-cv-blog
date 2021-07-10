@@ -244,18 +244,18 @@
     
       {
       "company": {
-        "name": "Resolve Digital",
+        "name": "Predictable Revenue",
         "logoHeight": 40,
-        "logo": "resolve-digital-logo 1.svg",
-        "period": "January 2020 - July 2020"
+        "logo": "predictable-revenue-logo 1 (1).svg",
+        "period": "November 2018 - December 2019"
       },
       "projects": [
         {
-          "name": "ResolveDigital",
+          "name": "PredictableRevenue",
           "logoHeight": 40,
           "logo": "",
-          "role": "Marketing Coordinator",
-          "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
+          "role": "Inbound Marketing Coordinator",
+          "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
             "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
             "all": ["AWS"]
@@ -275,9 +275,9 @@
       ]
     },
     
-     {
+    {
       "company": {
-        "name": "Resolve Digital",
+        "name": "Administrative Software Applications ",
         "logoHeight": 40,
         "logo": "resolve-digital-logo 1.svg",
         "period": "January 2020 - July 2020"
