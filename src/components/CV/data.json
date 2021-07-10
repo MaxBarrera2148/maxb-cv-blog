@@ -279,16 +279,16 @@
       "company": {
         "name": "Administrative Software Applications ",
         "logoHeight": 40,
-        "logo": "resolve-digital-logo 1.svg",
-        "period": "January 2020 - July 2020"
+        "logo": "descarga__1_-removebg-preview 1.svg",
+        "period": "July 2016 - October 2018"
       },
       "projects": [
         {
-          "name": "ResolveDigital",
+          "name": "AdministrativeSoftwareApplications",
           "logoHeight": 40,
           "logo": "",
-          "role": "Marketing Coordinator",
-          "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
+          "role": "Product specialist & customer support team lead",
+          "description": "Online registration and class management software (SaaS)",
           "stack": {
             "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
             "all": ["AWS"]
