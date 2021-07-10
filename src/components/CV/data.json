@@ -143,19 +143,16 @@
       ]
     },
     "hard": {
-      "featured": ["Webpack", "ES6 / ES2017"],
+      "featured": ["On-page SEO", "Technical SEO", "Writing and content creation", "Data analysis"],
       "other": [
-        "On-page SEO",
-        "Writing and content creation",
-        "Data analysis",
         "Off-page SEO",
-        "Technical SEO",
-        "Schema markup / structured data",
+        "Email marketing",
         "Social media marketing",
         "PPC",
         "Display ads",
         "Search ads",
         "Social ads",
+        "Schema markup / structured data",
         "Google Analytics",
         "Google Search Console",
         "Google Tag Manager",
