@@ -275,6 +275,39 @@
         }
       ]
     },
+    
+     {
+      "company": {
+        "name": "Resolve Digital",
+        "logoHeight": 40,
+        "logo": "resolve-digital-logo 1.svg",
+        "period": "January 2020 - July 2020"
+      },
+      "projects": [
+        {
+          "name": "ResolveDigital",
+          "logoHeight": 40,
+          "logo": "",
+          "role": "Marketing Coordinator",
+          "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
+          "stack": {
+            "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
+            "all": ["AWS"]
+          },
+          "achievements": [
+            "has built a team from scratch",
+            "successfully and predictably delivering of the product",
+            "high level of customer satisfaction",
+            "business objectives are met",
+            "a lot of my ideas were introduced and implemented (GitFlow, GitLab CI, Jira, new functionality)",
+            "insisted on rewriting the project - have borne fruit",
+            "chosen tech stack allow us to avoid hiring other professionals (C#, QT)",
+            "was proactive based on an understanding of the business, not just tech. requirements",
+            "mastered and taught new technologies (react + antd, redux, aws, jest)"
+          ]
+        }
+      ]
+    },
   
             {
       "company": {
