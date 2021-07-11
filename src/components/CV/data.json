@@ -224,7 +224,7 @@
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
-            "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
+            "me": ["Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Bootstrap", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
             "all": ["AWS"]
           },
           "achievements": [
@@ -254,11 +254,11 @@
           "name": "PredictableRevenue",
           "logoHeight": 40,
           "logo": "",
-          "role": "Inbound Marketing Coordinator",
+          "role": "Marketing Coordinator",
           "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Hotjar"],
-            "all": ["Salesforce"]
+            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Salesforce", "Hotjar"],
+            "all": [""]
           },
           "achievements": [
             "has built a team from scratch",
@@ -291,8 +291,8 @@
           "role": "Support team lead",
           "description": "February 2017 - October 2018",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Balsamiq", "Jira", "Zendesk"],
-            "all": [".Net"]
+            "me": ["Google Analytics", "HTML", "CSS", "Loom", "Jira", "Mailchimp", "Zendesk"],
+            "all": [".Net", "Salesforce"]
           }
         },
         {
@@ -303,7 +303,7 @@
           "description": "July 2016 - February 2017",
           "stack": {
             "me": ["Google Analytics", "HTML", "CSS", "Balsamiq", "Jira", "Zendesk"],
-            "all": [".NET"]
+            "all": [".NET", "Salesforce"]
           }
         }
       ]
