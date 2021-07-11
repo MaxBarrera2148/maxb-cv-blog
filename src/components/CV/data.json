@@ -302,7 +302,7 @@
           "role": "Product Specialist",
           "description": "July 2016 - February 2017",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Balsamiq" "Jira", "Zendesk"],
+            "me": ["Google Analytics", "HTML", "CSS", "Balsamiq", "Jira", "Zendesk"],
             "all": [".NET", "Symphony"]
           }
         }
