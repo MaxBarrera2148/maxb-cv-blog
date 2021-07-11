@@ -245,7 +245,7 @@
       {
       "company": {
         "name": "Predictable Revenue",
-        "logoHeight": 80,
+        "logoHeight": 40,
         "logo": "",
         "period": "November 2018 - December 2019"
       },
@@ -275,42 +275,11 @@
       ]
     },
     
-    {
-      "company": {
-        "name": "Administrative Software Applications ",
-        "logoHeight": 40,
-        "logo": "",
-        "period": "July 2016 - October 2018"
-      },
-      "projects": [
-        {
-          "name": "AdministrativeSoftwareApplications",
-          "logoHeight": 40,
-          "logo": "",
-          "role": "Product specialist & customer support team lead",
-          "description": "Online registration and class management software (SaaS)",
-          "stack": {
-            "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
-            "all": ["AWS"]
-          },
-          "achievements": [
-            "has built a team from scratch",
-            "successfully and predictably delivering of the product",
-            "high level of customer satisfaction",
-            "business objectives are met",
-            "a lot of my ideas were introduced and implemented (GitFlow, GitLab CI, Jira, new functionality)",
-            "insisted on rewriting the project - have borne fruit",
-            "chosen tech stack allow us to avoid hiring other professionals (C#, QT)",
-            "was proactive based on an understanding of the business, not just tech. requirements",
-            "mastered and taught new technologies (react + antd, redux, aws, jest)"
-          ]
-        }
-      ]
-    },
+
           {
       "company": {
         "name": "Administrative Software Applications",
-        "period": "January 2013 - June 2014",
+        "period": "July 2016 - October 2018",
         "logoHeight": 40,
         "logo": ""
       },
@@ -319,8 +288,8 @@
           "name": "",
           "logoHeight": 40,
           "logo": "",
-          "role": "Senior JavaScript Developer",
-          "description": "Cutco’s product line includes kitchen knives and utensils, shears, flatware, cookware and sporting knives.",
+          "role": "Support team lead",
+          "description": "",
           "stack": {
             "me": ["Ember.js", "REST", "HTML", "SASS"],
             "all": ["Java"]
@@ -328,9 +297,9 @@
         },
         {
           "name": "",
-          "logoHeight": 30,
+          "logoHeight": 40,
           "logo": "",
-          "role": "",
+          "role": "Product Specialist",
           "description": "",
           "stack": {
             "me": ["jQuery", "HTML", "SASS", "Django", "Bootstrap", "Twig"],
