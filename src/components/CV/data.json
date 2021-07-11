@@ -245,20 +245,20 @@
       {
       "company": {
         "name": "Predictable Revenue",
-        "logoHeight": 30,
+        "logoHeight": 40,
         "logo": "",
         "period": "November 2018 - December 2019"
       },
       "projects": [
         {
           "name": "PredictableRevenue",
-          "logoHeight": 30,
+          "logoHeight": 40,
           "logo": "",
           "role": "Inbound Marketing Coordinator",
           "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
-            "me": ["React JS", "Redux", "Webpack", "Meteor.js", "AWS IoT", "AntD"],
-            "all": ["AWS"]
+            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Hotjar"],
+            "all": ["Salesforce"]
           },
           "achievements": [
             "has built a team from scratch",
@@ -289,10 +289,10 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Support team lead",
-          "description": "",
+          "description": "February 2017 - October 2018",
           "stack": {
-            "me": ["Ember.js", "REST", "HTML", "SASS"],
-            "all": ["Java"]
+            "me": ["Google Analytics", "HTML", "CSS", "Balsamiq", "Jira", "Zendesk"],
+            "all": [".Net"]
           }
         },
         {
@@ -303,7 +303,7 @@
           "description": "July 2016 - February 2017",
           "stack": {
             "me": ["Google Analytics", "HTML", "CSS", "Balsamiq", "Jira", "Zendesk"],
-            "all": [".NET", "Symphony"]
+            "all": [".NET"]
           }
         }
       ]
