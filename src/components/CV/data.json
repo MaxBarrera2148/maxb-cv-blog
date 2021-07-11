@@ -193,7 +193,7 @@
           "description": "Nearshore staff augmentation and recruiting solutions",
           "stack": {
             "me": ["LinkedIn Ads", "Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Moz", "Postaga", "Google Tag Manager", "Google Data Studio", "OctoberCMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
-            "all": [".Net"]
+            "all": ["Ruby on Rails", "Heroku", "Unbuntu", "Apache"]
           },
           "achievements": [
             "Chose and approved tech stack with the client",
@@ -224,7 +224,7 @@
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
+            "me": ["Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
             "all": ["Google Retargeting Ads"]
           },
           "achievements": [
@@ -244,7 +244,7 @@
     
       {
       "company": {
-        "name": "Predictable Revenue",
+        "name": "Predictable     Revenue",
         "logoHeight": 40,
         "logo": "",
         "period": "November 2018 - December 2019"
@@ -257,7 +257,7 @@
           "role": "Marketing Coordinator",
           "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Moz", "BuzzSumo", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Salesforce", "Hotjar"],
+            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
             "all": ["PHP"]
           },
           "achievements": [
