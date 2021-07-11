@@ -45,7 +45,7 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": "My passions are — SEO, marketing, design, and web development.",
+  "pitchLine": "My passions are — SEO writing, marketing, design, development.",
   "topTech": [
     "react",
     "graphql",
@@ -192,7 +192,7 @@
           "role": "Marketing Coordinator",
           "description": "Nearshore staff augmentation and recruiting solutions",
           "stack": {
-            "me": ["React JS", "Redux", "Apollo", "GraphQL", "Webpack", "AntD"],
+            "me": ["LinkedIn Ads", "Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Moz", "Postaga", "Google Tag Manager", "Google Data Studio", "OctoberCMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
             "all": [".Net"]
           },
           "achievements": [
@@ -257,7 +257,7 @@
           "role": "Marketing Coordinator",
           "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Salesforce", "Hotjar"],
+            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Moz", "BuzzSumo", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Salesforce", "Hotjar"],
             "all": ["PHP"]
           },
           "achievements": [
@@ -288,10 +288,10 @@
           "name": "",
           "logoHeight": 40,
           "logo": "",
-          "role": "Support team lead",
+          "role": "Product Specialist & Support Team Lead",
           "description": "February 2017 - October 2018",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Loom", "Youtube", "PowerPoint", "Excel", "Jira", "Mailchimp", "Microsoft Teams", "Zendesk"],
+            "me": ["Google Analytics", "HTML", "CSS", "Camtasia", "Youtube", "PowerPoint", "Excel", "Jira", "Mailchimp", "SendGrid", "Microsoft Teams", "Zendesk"],
             "all": [".Net", "Salesforce"]
           }
         },
@@ -299,10 +299,10 @@
           "name": "",
           "logoHeight": 40,
           "logo": "",
-          "role": "Product Specialist",
+          "role": "Jr. Product Specialist",
           "description": "July 2016 - February 2017",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Loom", "Youtube", "Balsamiq", "Jira", "Microsoft Teams",  "Zendesk"],
+            "me": ["Google Analytics", "HTML", "CSS", "Camtasia", "Youtube", "Balsamiq", "Jira", "Microsoft Teams",  "Zendesk"],
             "all": [".NET", "Salesforce"]
           }
         }
