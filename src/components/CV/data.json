@@ -245,14 +245,14 @@
       {
       "company": {
         "name": "Predictable Revenue",
-        "logoHeight": 40,
+        "logoHeight": 30,
         "logo": "",
         "period": "November 2018 - December 2019"
       },
       "projects": [
         {
           "name": "PredictableRevenue",
-          "logoHeight": 40,
+          "logoHeight": 30,
           "logo": "",
           "role": "Inbound Marketing Coordinator",
           "description": "Helping companies capture revenue through outbound sales.",
@@ -300,10 +300,10 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Product Specialist",
-          "description": "",
+          "description": "July 2016 - February 2017",
           "stack": {
-            "me": ["jQuery", "HTML", "SASS", "Django", "Bootstrap", "Twig"],
-            "all": ["PHP", "Symphony"]
+            "me": ["Google Analytics", "HTML", "CSS", "Balsamiq" "Jira", "Zendesk"],
+            "all": [".NET", "Symphony"]
           }
         }
       ]
