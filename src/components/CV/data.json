@@ -45,7 +45,7 @@
       "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
     }
   ],
-  "pitchLine": "My passions are — SEO writing, marketing, design, development.",
+  "pitchLine": "My passions are — writing, design, SEO, Marketing, and development.",
   "topTech": [
     "react",
     "graphql",
@@ -224,8 +224,8 @@
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
-            "me": ["Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
-            "all": ["Google Retargeting Ads"]
+            "me": ["Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Jekyll Static Site Generator", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
+            "all": ["Ruby", "Google Retargeting Ads"]
           },
           "achievements": [
             "has built a team from scratch",
@@ -257,7 +257,7 @@
           "role": "Marketing Coordinator",
           "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
+            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Sumo", "Schema Markup", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
             "all": ["PHP"]
           },
           "achievements": [
