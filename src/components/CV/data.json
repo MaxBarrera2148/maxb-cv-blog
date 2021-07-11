@@ -224,8 +224,8 @@
           "role": "Marketing Coordinator",
           "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Bootstrap", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
-            "all": ["AWS"]
+            "me": ["Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
+            "all": ["Google Retargeting Ads"]
           },
           "achievements": [
             "has built a team from scratch",
@@ -258,7 +258,7 @@
           "description": "Helping companies capture revenue through outbound sales.",
           "stack": {
             "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Autopilot", "Salesforce", "Hotjar"],
-            "all": [""]
+            "all": ["PHP"]
           },
           "achievements": [
             "has built a team from scratch",
@@ -291,7 +291,7 @@
           "role": "Support team lead",
           "description": "February 2017 - October 2018",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Loom", "Jira", "Mailchimp", "Zendesk"],
+            "me": ["Google Analytics", "HTML", "CSS", "Loom", "Youtube", "PowerPoint", "Excel", "Jira", "Mailchimp", "Microsoft Teams", "Zendesk"],
             "all": [".Net", "Salesforce"]
           }
         },
@@ -302,7 +302,7 @@
           "role": "Product Specialist",
           "description": "July 2016 - February 2017",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Balsamiq", "Jira", "Zendesk"],
+            "me": ["Google Analytics", "HTML", "CSS", "Loom", "Youtube", "Balsamiq", "Jira", "Microsoft Teams",  "Zendesk"],
             "all": [".NET", "Salesforce"]
           }
         }
