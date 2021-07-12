@@ -52,8 +52,8 @@
     "apollo",
     "redux",
     "reduxsaga",
-    "electron",
-    "gatsby",
+    "antd",
+    "fabric",
     "netlify"
   ],
   "tech": {
@@ -91,25 +91,25 @@
       "name": "Bootstrap 5",
       "logo": "bootstrap-5-1.svg",
       "website": "https://getbootstrap.com/",
-      "displayInTopList": true
+      "displayInTopList": false
     },
     "gatsby": {
       "name": "Gatsby",
       "logo": "gatsby.svg",
       "website": "https://www.gatsbyjs.org/",
-      "displayInTopList": true
+      "displayInTopList": false
     },
     "antd": {
       "name": "Data Studio",
       "logo": "google-data-studio.svg",
       "website": "https://datastudio.google.com/",
-      "displayInTopList": false
+      "displayInTopList": true
     },
     "fabric": {
       "name": "Tag Manager",
       "logo": "google-tag-manager.svg",
       "website": "https://marketingplatform.google.com/about/tag-manager/",
-      "displayInTopList": false
+      "displayInTopList": true
     },
     "netlify": {
       "name": "Optimize",
@@ -221,13 +221,13 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Marketing Coordinator",
-          "description": "Build, optimize, and maintain innovative eCommerce & SaaS solutions",
+          "description": "Resolve Digital builds, optimizes, and maintains innovative eCommerce & SaaS solutions. I was hired to plan and execute their digital marketing and inbound lead generation strategy.",
           "stack": {
             "me": ["Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Jekyll Static Site Generator", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
             "all": ["Ruby", "Google Retargeting Ads"]
           },
           "achievements": [
-            "Develop a content, blog, SEO, and social media strategy",
+            "Develop a content, blog, SEO, and social media strategy.",
             "Monitor and report on marketing goals and KPIs including website, social media, ad campaign, and youtube analytics.",
             "Audit website and existing content to develop a plan to replicate previously favorable SEO results.",
             "Create blog content, social media posts, new case studies, technologies we work with pages, and more.",
@@ -251,21 +251,20 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Marketing Coordinator",
-          "description": "Helping companies capture revenue through outbound sales.",
+          "description": "Predictable Revenue is a firm offering consulting and outbound business development services. I specialized in SEO but lead and managed several other initiatives related to inbound marketing.",
           "stack": {
             "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Sumo", "Schema Markup", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
             "all": ["PHP"]
           },
           "achievements": [
-            "has built a team from scratch",
-            "successfully and predictably delivering of the product",
-            "high level of customer satisfaction",
-            "business objectives are met",
-            "a lot of my ideas were introduced and implemented (GitFlow, GitLab CI, Jira, new functionality)",
-            "insisted on rewriting the project - have borne fruit",
-            "chosen tech stack allow us to avoid hiring other professionals (C#, QT)",
-            "was proactive based on an understanding of the business, not just tech. requirements",
-            "mastered and taught new technologies (react + antd, redux, aws, jest)"
+            "Manage website (WordPress.)",
+            "Monitor and report on marketing goals and KPIs including website, social media, ad campaign, newsletter, and youtube analytics.",
+            "Manage content & blog.",
+            "Manage social media and community profiles.",
+            "Optimize content for performance and SEO.",
+            "Helped develop and plan Sales Efficiency Quiz.",
+            "Added 80+ referring domains in six months.",
+            "Extensive updates to on-page and technical SEO likely played a role in increasing overall website traffic by 46% during my tenure."
           ]
         }
       ]
