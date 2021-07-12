@@ -196,12 +196,16 @@
             "all": ["Ruby on Rails", "Heroku", "Unbuntu", "Apache"]
           },
           "achievements": [
-            "Setup / Configure Google Marketing tools (Analytics, Search Console, Tag Manager, Optimize, and Data Studio) including - automated reporting, engagement goals, conversion tracking, etc...",
+            "Setup / Configure Google Marketing tools (Analytics, Search Console, Tag Manager, Optimize, and Data Studio) including setting up - automated reporting, engagement goals, conversion tracking, and more.",
             "Write strategic SEO & CRO friendly website copy and blog articles",
+            "Monitor and report on marketing goals and KPIs.",
+            "Build new pages like landing pages for ad campaigns, resources page, the outsourcing oasis podcast pages, and more.",
             "Setup redirects, implement schema markup, update and submit sitemap, submit new pages to SC to be crawled, and optimize website for SEO and performance.",
-            "Collaborate regularly with other teams on a diverse range of initiatives.  For example, working with sales team to help improve email delivery and open rates, or helping Recruitment configure their applicant tracking system, or working with the executive team on JTBD interviews.",
+            "Collaborate regularly with other teams on a diverse range of initiatives including working with the Sales Team to help improve email deliverability and open rates, or helping Recruitment configure their applicant tracking system, or working with the Executive Team on JTBD interviews and helping develop our service offerings.",
             "Perform keyword research and mapping, competitor keyword and backlink analysis, market research, assisting with jobs to be done interviews, and more.",
             "Develop an inbound marketing strategy including -  Content strategy & calendar, SEO strategy, and social media strategy & calendar.",
+            "Rebrand a podcast we produced with DevChat.tv and publish on Youtube and our website.",
+            "Design graphics for blog posts, banners, ads, thumbnails, social media posts, infographics, ebooks, podcast, newsletters, website, and more.",
             "On-page SEO, technical SEO, and link building "
           ]
         }
@@ -226,15 +230,14 @@
             "all": ["Ruby", "Google Retargeting Ads"]
           },
           "achievements": [
-            "has built a team from scratch",
-            "successfully and predictably delivering of the product",
-            "high level of customer satisfaction",
-            "business objectives are met",
-            "a lot of my ideas were introduced and implemented (GitFlow, GitLab CI, Jira, new functionality)",
-            "insisted on rewriting the project - have borne fruit",
-            "chosen tech stack allow us to avoid hiring other professionals (C#, QT)",
-            "was proactive based on an understanding of the business, not just tech. requirements",
-            "mastered and taught new technologies (react + antd, redux, aws, jest)"
+            "On-page SEO, technical SEO, and link building",
+            "Detailed SEO website audit",
+            "Monitor and report on marketing goals and KPIs.",
+            "Build new pages (technologies we work with & case studies), update copy and rebuild existing pages (homepage, services, about, etc..)",
+            "Setup redirects, implement schema markup, update and submit sitemap, submit new pages to Search Console to be crawled, and optimize website content for SEO and performance.",
+            "Design graphics for blog posts, banners, ads, thumbnails, social media posts, infographics, ebooks, podcast, newsletters, website, and more.",
+            "Keyword research and mapping",
+            "Develop a content strategy and publishing calendar"
           ]
         }
       ]
