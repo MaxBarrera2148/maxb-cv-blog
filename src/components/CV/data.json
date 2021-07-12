@@ -190,21 +190,19 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Marketing Coordinator",
-          "description": "Nearshore staff augmentation and recruiting solutions",
+          "description": "Plan and execute the digital marketing and inbound lead generation strategy for a company specializing in helping North American companies hire remote tech talent in Latin America.",
           "stack": {
             "me": ["LinkedIn Ads", "Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Moz", "Postaga", "Google Tag Manager", "Google Data Studio", "OctoberCMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
             "all": ["Ruby on Rails", "Heroku", "Unbuntu", "Apache"]
           },
           "achievements": [
-            "Chose and approved tech stack with the client",
-            "Hired and built the team from scratch",
-            "Created frontend architecture",
-            "Regularly negotiated with stakeholders",
-            "Validated module requirements",
-            "Advised other client development teams",
-            "Conducted a code review and knowledge sharing",
-            "Communicated with backend team",
-            "Successfully released"
+            "Setup / Configure Google Marketing tools (Analytics, Search Console, Tag Manager, Optimize, and Data Studio) including - automated reporting, engagement goals, conversion tracking, etc...",
+            "Write strategic SEO & CRO friendly website copy and blog articles",
+            "Setup redirects, implement schema markup, update and submit sitemap, submit new pages to SC to be crawled, and optimize website for SEO and performance.",
+            "Collaborate regularly with other teams on a diverse range of initiatives.  For example, working with sales team to help improve email delivery and open rates, or helping Recruitment configure their applicant tracking system, or working with the executive team on JTBD interviews.",
+            "Perform keyword research and mapping, competitor keyword and backlink analysis, market research, assisting with jobs to be done interviews, and more.",
+            "Develop an inbound marketing strategy including -  Content strategy & calendar, SEO strategy, and social media strategy & calendar.",
+            "On-page SEO, technical SEO, and link building "
           ]
         }
       ]
