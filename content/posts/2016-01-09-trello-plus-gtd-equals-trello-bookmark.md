@@ -1,96 +1,112 @@
 ---
 template: post
-title: Trello + GTD = Trello Bookmark
-slug: /posts/trello-plus-gtd-equals-trello-bookmark
+title: "Nearshore, Onshore & Offshore: what's the difference?"
+slug: /posts/nearshore-onshore-offshore-whats-the-difference
 draft: false
 priority: 5
-date: 2019-03-27T00:46:37.121Z
-description: >-
-  You know, I hate routine.
-
-  But one of the greatest things about being a programmer is that you can
-  automate your routine.
-category: productivity
+date: 2021-07-12T23:37:11.704Z
+description: We examine onshore, nearshore, and offshore development breaking
+  down the unique advantages and subtle differences each outsourcing option
+  offers.
+category: outsourcing
 tags:
-  - trello
-  - gtd
-  - chrome
-  - plugin
+  - outsourcing
+  - nearshore development
 ---
+An ever-increasing number of businesses are turning to outsourcing to free themselves from hiring, training, and maintaining in-house employees. This enables them to save time and money while tapping into a virtually endless stream of experienced IT talent. 
 
-You know, I hate routine.
+We've defined what it means to outsource software development nearshore, offshore, and onshore, as well as provide tips on how to decide which choice makes the most sense for your project or business.
 
-But one of the greatest things about being a programmer is that you can automate your routine.
+- - -
 
----
+## What's the difference between onshore, nearshore, and offshore software development?
 
-As bequeathed by David Allen, in his brilliant GTD: “Put everything out needless of your head to keep it clean and concentrated.”
+![The difference between onshore, nearshore, and offshore](/media/onshore-nearshore-offshore-outsourcing-1-.jpg)
 
-Let’s see what gets there:
+When it comes to outsourcing software development, there are three location-based variations: *onshore*, *nearshore*, and *offshore.*
 
-- ideas (develop an Android app for blind puppies);
-- tasks (take out the cat, pet the trash, pass the report);
-- projects with detailed plans and task lists (trip to Somalia, meeting the girl’s parents);
-- notes (Mike snores, not worth to live with him in one tent).
+Each option inherently different with its own unique advantages.
 
-Typically, the practical application of GTD in Trello ends here. However, if you look carefully, you should add browser bookmarks here. Many of us just save them in the browser. They accumulate there and eventually remain without attention.
+Let’s start by defining each term in detail, and then we'll break down the benefits of each option.
 
-There are several standard solutions for adding a card to Trello:
+### Onshore software development definition
 
-- Trello application for the desktop.
+![Golden Gate Bridge](/media/outsourcing-software-development-onshore2-1-.jpg)
 
-![Trello desktop](/media/trello-gtd/01.png 'Trello desktop')
+Onshore software development is the process of building or maintaining software using a team located in the same country as you. That could mean freelancers, third-party software development companies, or even in-house employees. Although the term is usually associated with outsourcing.
 
-However, this is not very suitable for saving bookmarks, because you cannot add a screenshot. The link fits into the description, not as an attachment. So the name of the bookmark will have to be typed manually.
+**An example of onshore software development**: would be a company operating in the Bay Area that hires freelancers or independent contractors in a nearby city like Seattle.
 
-- Trello chrome extensions. It has many solutions, varying degrees of readiness and stability. In any case, you cannot upload a screenshot or you have got a lot of manual work.
-- Manually create a card on Trello.com. It is suitable for people who have a lot of free time.
+While hiring [remote developers](https://www.bluecoding.com/post/advantages-of-hiring-remote-programmers) outside the bay area allows them to save a little bit of money on salaries they still have a relatively high level of oversight and control.
 
-Upon the whole, not finding a suitable solution — I wrote my own plugin. Meet [Trello Bookmark](https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca)!
+### Offshore software development definition
 
-Here’s what it has:
+Offshore development refers to working with developers or an agency located outside of your country, usually with a significant time zone difference of six hours or more. In some cases, like with China or the Philippines, the time difference with North America can be as much as 12 hours.
 
-- board and list selection (personal and team);
-- position in the list;
-- name of the card;
-- description;
-- link (as an attachment);
-- cover;
-- labels;
-- due date;
-- assignee;
+**An example of offshore software development**: would be asoftware company in New York that hires a team in Pakistan to help with their software deployments. At times the time zone differences can be an advantage like when you want a team to help with late-night deployments or need 24hr coverage.
 
-And additionally to above-stated:
+With offshoring, we recommend working with an agency or outsourcing partner over an individual freelance developer. With offshore development, you need to pay special attention to communication, and working with a firm tends to be more reliable.
 
-- it supports hotkeys (keyboard navigation through tab and arrows, saving by CTRL + enter);
-- advanced logic field by default.
+### Nearshore software development definition
 
-![Trello Bookmark default locations](/media/trello-gtd/02.png 'Trello Bookmark default locations')
 
-You can link the site you often visit a specific path for the card and the plugin will offer it by default. This means that you relieved to enter the address every time. You can also give a special path for a new browser tab. Then the plugin will open with empty fields (convenient for saving quick tasks to inbox):
 
-![Google Chrome new tab with Trello Bookmark](/media/trello-gtd/03.png 'Google Chrome new tab with Trello Bookmark')
+![Latin American city](/media/nearshore-outsourcing-software-development.jpg)
 
-If the plugin is opened on a site that is not added in the settings, the last used path is suggested. All these features may seem overkill, but if you add tens or hundreds of cards a day, they save you a lot of time.
+<!--StartFragment-->
 
-Here’s what one of the boards with my girlfriend looks like:
+**[Nearshore software development](https://www.bluecoding.com/nearshore-software-development-services)**refers to hiring foreign talent in countries with timezone parity or at least significant time zone overlap.
 
-![Trello cooking board](/media/trello-gtd/04.png 'Trello cooking board')
+It’s hard to say exactly when *nearshore* becomes *offshore.* We've even seen companies in Europe and Africa referred to as "nearshore" in the past, despite having a six-hour plus time difference with North America.
 
-You may have noticed that my new chrome tab looks unusual.
+We feel that to be considered nearshore the time difference should be no greater than 3-5 hours and in many cases, there will be no timezone difference at all.
 
-I was always annoyed that I couldn’t get a summary of tasks from different boards and teams in Trello and make a list for the day. And this is very important, especially if you follow the M. I. T. technique.
+**An example of nearshore development**: would be a startup or large corporation that opens a software development center in a country like Mexico to gain a permanent foothold securing affordable IT talent.
 
-As a result, thanks to the Open Trello API, I made another plugin that pulls out cards according to a certain criterion:
+Popular nearshore locations for North American companies to outsource software development include Mexico, Brazil, Colombia, Costa Rica, and Argentina.
 
-![Trello Picker](/media/trello-gtd/05.png 'Trello Picker')
+Interested in working with a dedicated nearshore software development team? Learn more about our **[managed software development services](https://www.bluecoding.com/managed-software-development-services)** here.
 
-At the moment, this criterion is the presence of a red label “!!!”. In the future, I will add the ability to put down your criteria: for example, tasks with a deadline for today.
+## Onshore software development benefits
 
-While the plugin is not available for public use, write in the comments or me on marat.dospolov@gmail.com if you want to get it faster.
+Onshore development offers two significant advantages: cultural familiarity and ease of communication. Those are likely the two main components driving the demand for onshore talent. Although this difference may grow less noticeable over time as the number of foreign tech workers in North America grows.
 
----
+Onshore development also means closer geographic proximity than the other two options. Meaning if you like to meet up with your remote contributors regularly and in-person this could be a cost advantage.
 
-Trello is an amazing tool that can solve most of your tasks, especially if you apply a little magic!
+**What's the drawback**?
 
-![“One ring to rule them all.”](/media/trello-gtd/06.png '“One ring to rule them all.”')
+One of the main drawbacks is, as you might have guessed, the price tag. Hourly rates for freelancers and inexperienced developers based in North America can rival those of an experienced senior developer based nearshore or offshore.
+
+## Offshore software development benefits
+
+Offshore software development can be a good option for bootstrapped startups and other small businesses because of its affordable rates. You’re also looking at the largest pool of IT talent in the world, including IT outsourcing powerhouses like China, Pakistan, and India.
+
+**What’s the downside**? Well, it depends on the country and whether you’re dealing with an agency or a freelancer.
+
+**For example**: if you're outsourcing to a popular outsourcing destination like the Philippines, contacting freelancers or small agencies during monsoon season (June-October) can be especially tricky.
+
+Communication difficulties aren’t just limited to countries with tropical climates either – serious communication challenges and cultural barriers can lead to a project going off the rails or cause you to miss deadlines.
+
+Working with a team that can’t communicate effectively is not an option, especially when they’re located halfway around the world. Generally speaking the farther the location is from your main operation, the larger the logistical challenge will be to get your team set up and running.
+
+## Nearshore software development benefits
+
+With nearshore development, you can maintain close control of your projects. Your partner is nearby allowing you to communicate clearly and collaborate in real-time.
+
+You can say that with nearshore development you get thebest of both worlds. You see significant cost benefits without sacrificing efficiency or compromising on quality.
+
+Interested in working with skilled nearshore development talent? Learn about our **[nearshore staff augmentation services](https://www.bluecoding.com/nearshore-staff-augmentation-services)**.
+
+***What are the downsides***?
+
+You’ll need to pay special attention to English proficiency, something that’s probably usually not even on your radar, and with the international demand for skilled developers with fluent English on the rise, don’t expect to be paying the local going rate either.
+
+**In summary**: nearshore offers better communication and control than offshore, while still providing considerable cost benefits as well as requiring less maintenance. The quality of work is second only to onshore development but at a considerably lower cost.
+
+## Conclusion
+
+* Outsourcing allows you to outperform larger competitors by accessing untapped talent markets, lowering your operating costs, and allowing you to complete projects faster.
+* Finding the right outsourcing partner is one of the most important aspects of making *onshore*, *nearshore*, or*offshore* development work.
+* Increasing globalization and wider adoption of remote work culture, have lowered the barrier for outsourcing.
+
+Haven't decided which option makes the most sense for your business? Book a free **[outsourcing strategy call](https://www.bluecoding.com/contact-us)**, to find out if nearshore development is right for you.
