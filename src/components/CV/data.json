@@ -64,9 +64,9 @@
       "displayInTopList": true
     },
     "graphql": {
-      "name": "GraphQL",
-      "logo": "graphql.svg",
-      "website": "https://graphql.org/",
+      "name": "Google Ads",
+      "logo": "google_ads-icon.svg",
+      "website": "https://ads.google.com/home/",
       "displayInTopList": true
     },
     "apollo": {
@@ -100,21 +100,21 @@
       "displayInTopList": true
     },
     "antd": {
-      "name": "Sass",
-      "logo": "sass-1.svg",
-      "website": "https://sass-lang.com/",
+      "name": "Data Studio",
+      "logo": "google-data-studio.svg",
+      "website": "https://datastudio.google.com/",
       "displayInTopList": false
     },
     "fabric": {
-      "name": "Fabric UI",
-      "logo": "fabric.svg",
-      "website": "https://developer.microsoft.com/en-us/fabric",
+      "name": "Tag Manager",
+      "logo": "google-tag-manager.svg",
+      "website": "https://marketingplatform.google.com/about/tag-manager/",
       "displayInTopList": false
     },
     "netlify": {
-      "name": "Netlify",
-      "logo": "netlify.svg",
-      "website": "https://www.netlify.com/",
+      "name": "Optimize",
+      "logo": "google-optimize.svg",
+      "website": "https://marketingplatform.google.com/about/optimize/",
       "displayInTopList": true
     }
   },
