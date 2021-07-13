@@ -25,21 +25,21 @@
       "name": "The Predictable Revenue Podcast",
       "locationIcon": "descarga__2_-removebg-preview.png",
       "description": "Where frontline Sales Leaders teach you how to build and scale an Outbound Sales Team.",
-      "builtWith": ["electron", "react", "redux", "reduxsaga", "fabric"],
+      "builtWith": ["electron", "reduxsaga", "fabric"],
       "link": "https://www.youtube.com/channel/UCaQX8Um5FmYKfDFZO8a9vyw"
     },
     {
       "name": "Outsourcing Oasis Podcast",
       "locationIcon": "1591730797476-removebg-preview.png",
       "description": "Join us on our journey to demystify outsourcing and remote team management.",
-      "builtWith": ["apollo", "react", "datastudio"],
+      "builtWith": ["octobercms", "react", "datastudio"],
       "link": "https://www.bluecoding.com/outsourcing-oasis-podcast"
     },
     {
-      "name": "Blog",
+      "name": "Blue Coding Blog",
       "locationIcon": "1591730797476-removebg-preview.png",
-      "description": "Blue Coding's blog",
-      "builtWith": ["gatsby", "react", "netlify"],
+      "description": "Learn about remote team management, outsourcing, and more.",
+      "builtWith": ["octobercms", "react", "netlify"],
       "link": "https://www.bluecoding.com/blog"
     }
   ],
@@ -95,6 +95,18 @@
       "name": "Gatsby",
       "logo": "gatsby.svg",
       "website": "https://www.gatsbyjs.org/",
+      "displayInTopList": false
+    },
+       "octobercms": {
+      "name": "OctoberCMS",
+      "logo": "OctoberCMS.png",
+      "website": "https://octobercms.com/",
+      "displayInTopList": false
+    },
+       "cloudcannon": {
+      "name": "CloudCannonCMS",
+      "logo": "descarga (3).png",
+      "website": "https://cloudcannon.com/",
       "displayInTopList": false
     },
     "datastudio": {
@@ -191,7 +203,7 @@
           "description": "Plan and execute the digital marketing and inbound lead generation strategy for a company specializing in helping North American companies hire remote tech talent in Latin America.",
           "stack": {
             "me": ["LinkedIn Ads", "Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Moz", "Postaga", "Google Tag Manager", "Google Data Studio", "OctoberCMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
-            "all": ["Ruby on Rails", "Heroku", "Unbuntu", "Apache"]
+            "all": ["Laravel", "PHP",  "Apache"]
           },
           "achievements": [
             "Develop a strategy for inbound marketing channels (blog, SEO, social media, podcasts, and more.)",
