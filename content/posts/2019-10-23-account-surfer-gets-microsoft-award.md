@@ -7,7 +7,7 @@ priority: 5
 date: 2021-07-13T01:13:06.153Z
 description: A basic introduction to APIs and how they work including the
   difference between REST and SOAP as well as real-world examples.
-category: productivity
+category: Programming
 tags:
   - programming
   - APIs
