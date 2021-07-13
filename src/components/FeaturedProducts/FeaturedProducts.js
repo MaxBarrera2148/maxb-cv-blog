@@ -14,7 +14,7 @@ const FeaturedProducts = () => {
           xl={12}
           key={product.name}
           className="bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: `url(/featured-products-bg/${i + 1}.jpg)` }}
+          style={{ backgroundImage: `url(/featured-products-bg/${i + 1}.svg)` }}
         >
           <Card
             className="featured-product h-full rounded-none"
