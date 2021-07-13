@@ -8,10 +8,11 @@ date: 2021-07-13T00:50:49.531Z
 description: We review popular eCommerce tech stacks, as well as useful software
   that can help your eCommerce store capture more sales and delight your
   customers.
-category: Programming, eCommerce
+category: eCommerce
 tags:
   - eCommerce
   - tech stack
+  - programming
 ---
 Everyone’s trying to gain an advantage over the competition, and with an estimated 12 – 24 million eCommerce sites across the globe, it’s not easy to stand out in the competitive world of online retail.
 
