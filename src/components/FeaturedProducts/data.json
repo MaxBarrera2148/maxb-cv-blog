@@ -1,13 +1,13 @@
 [
   {
     "name": "The Predictable Revenue Podcast",
-    "logo": "descarga__2_-removebg-preview.png",
+    "logo": "/logos/descarga__2_-removebg-preview.png",
     "description": "Where frontline Sales Leaders teach you how to build and scale an Outbound Sales Team.",
     "link": "https://www.youtube.com/channel/UCaQX8Um5FmYKfDFZO8a9vyw"
   },
   {
     "name": "Outsourcing Oasis Podcast",
-    "logo": "",
+    "logo": "/logos/1591730797476-removebg-preview.png",
     "description": "Join us on our journey to demystify outsourcing and remote team management.",
     "link": "https://www.bluecoding.com/outsourcing-oasis-podcast"
   }
