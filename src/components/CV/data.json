@@ -22,27 +22,25 @@
   },
   "experiments": [
     {
-      "name": "Account Surfer",
-      "locationIcon": "windows-store.svg",
-      "description": "Quickly switch between accounts and browsers",
+      "name": "The Predictable Revenue Podcast",
+      "locationIcon": "descarga__2_-removebg-preview.png",
+      "description": "Where frontline Sales Leaders teach you how to build and scale an Outbound Sales Team.",
       "builtWith": ["electron", "react", "redux", "reduxsaga", "fabric"],
-      "link": "https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7"
+      "link": "https://www.youtube.com/channel/UCaQX8Um5FmYKfDFZO8a9vyw"
     },
     {
-      "name": "Trello Bookmark",
-      "locationIcon": "chrome-webstore.svg",
-      "description": "Store your bookmarks as Trello Cards",
+      "name": "Outsourcing Oasis Podcast",
+      "locationIcon": "1591730797476-removebg-preview.png",
+      "description": "Join us on our journey to demystify outsourcing and remote team management.",
       "builtWith": ["apollo", "react", "antd"],
-      "link": "https://chrome.google.com/webstore/detail/trello-bookmark/ephoopolmejjnjkbbdcfgoohokhnekca",
-      "sourceCode": "https://github.com/dospolov/trello-bookmark"
+      "link": "https://www.bluecoding.com/outsourcing-oasis-podcast"
     },
     {
       "name": "Blog",
-      "locationIcon": "chrome.svg",
-      "description": "Read about productivity and development",
+      "locationIcon": "1591730797476-removebg-preview.png",
+      "description": "Blue Coding's blog",
       "builtWith": ["gatsby", "react", "netlify"],
-      "link": "https://dospolov.com",
-      "sourceCode": "https://github.com/dospolov/gatsby-starter-blog-and-cv"
+      "link": "https://www.bluecoding.com/blog"
     }
   ],
   "pitchLine": "My passions are — writing, design, SEO, Marketing, and development.",
@@ -52,7 +50,7 @@
     "apollo",
     "redux",
     "reduxsaga",
-    "antd",
+    "datastudio",
     "fabric",
     "netlify"
   ],
@@ -99,7 +97,7 @@
       "website": "https://www.gatsbyjs.org/",
       "displayInTopList": false
     },
-    "antd": {
+    "datastudio": {
       "name": "Data Studio",
       "logo": "google-data-studio.svg",
       "website": "https://datastudio.google.com/",
