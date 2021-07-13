@@ -8,7 +8,7 @@ date: 2021-07-12T23:37:11.704Z
 description: We examine onshore, nearshore, and offshore development breaking
   down the unique advantages and subtle differences each outsourcing option
   offers.
-category: outsourcing
+category: Outsourcing
 tags:
   - outsourcing
   - nearshore development
