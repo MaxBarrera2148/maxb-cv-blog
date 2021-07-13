@@ -10,7 +10,7 @@ description: A running list of today's best programming podcasts including names
 category: Programming
 tags:
   - software development podcasts
-  - web development podcasts
+  - best podcast list
 ---
 ## *Best (Tech Agnostic) Software Development Podcasts*
 
