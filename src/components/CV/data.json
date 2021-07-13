@@ -32,7 +32,7 @@
       "name": "Outsourcing Oasis Podcast",
       "locationIcon": "1591730797476-removebg-preview.png",
       "description": "Join us on our journey to demystify outsourcing and remote team management.",
-      "builtWith": ["apollo", "react", "antd"],
+      "builtWith": ["apollo", "react", "datastudio"],
       "link": "https://www.bluecoding.com/outsourcing-oasis-podcast"
     },
     {
