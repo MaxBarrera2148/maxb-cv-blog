@@ -13,8 +13,6 @@ tags:
   - outsourcing
   - nearshore development
 ---
-![](/media/603848bda5865579890157.jpg)
-
 An ever-increasing number of businesses are turning to outsourcing to free themselves from hiring, training, and maintaining in-house employees. This enables them to save time and money while tapping into a virtually endless stream of experienced IT talent. 
 
 We've defined what it means to outsource software development nearshore, offshore, and onshore, as well as provide tips on how to decide which choice makes the most sense for your project or business.
