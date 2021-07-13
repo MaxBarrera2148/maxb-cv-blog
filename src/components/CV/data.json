@@ -25,34 +25,34 @@
       "name": "The Predictable Revenue Podcast",
       "locationIcon": "descarga__2_-removebg-preview.png",
       "description": "Where frontline Sales Leaders teach you how to build and scale an Outbound Sales Team.",
-      "builtWith": ["electron", "reduxsaga", "fabric"],
+      "builtWith": ["wordpress", "analytics"],
       "link": "https://www.youtube.com/channel/UCaQX8Um5FmYKfDFZO8a9vyw"
     },
     {
       "name": "Outsourcing Oasis Podcast",
       "locationIcon": "1591730797476-removebg-preview.png",
       "description": "Join us on our journey to demystify outsourcing and remote team management.",
-      "builtWith": ["octobercms", "react", "datastudio"],
+      "builtWith": ["octobercms", "bootstrap", "analytics"],
       "link": "https://www.bluecoding.com/outsourcing-oasis-podcast"
     },
     {
       "name": "Blue Coding Blog",
       "locationIcon": "1591730797476-removebg-preview.png",
       "description": "Learn about remote team management, outsourcing, and more.",
-      "builtWith": ["octobercms", "react", "netlify"],
+      "builtWith": ["octobercms", "bootstrap", "searchconsole",  "analytics"],
       "link": "https://www.bluecoding.com/blog"
     }
   ],
   "pitchLine": "My passions are — writing, design, SEO, Marketing, and development.",
   "topTech": [
     "react",
-    "graphql",
-    "apollo",
-    "redux",
-    "reduxsaga",
+    "wordpress",
+    "googleads",
+    "analytics",
+    "searchconsole",
     "datastudio",
-    "fabric",
-    "netlify"
+    "tagmanager",
+    "optimize"
   ],
   "tech": {
     "react": {
@@ -61,31 +61,31 @@
       "website": "https://github.com/facebook/react",
       "displayInTopList": true
     },
-    "graphql": {
+    "googleads": {
       "name": "Google Ads",
       "logo": "google_ads-icon.svg",
       "website": "https://ads.google.com/home/",
       "displayInTopList": true
     },
-    "apollo": {
+    "analytics": {
       "name": "Analytics",
       "logo": "google_analytics-icon.svg",
       "website": "http://analytics.google.com/",
       "displayInTopList": true
     },
-    "redux": {
+    "searchconsole": {
       "name": "Search Console",
       "logo": "google-search-console.svg",
       "website": "https://search.google.com/search-console/about",
       "displayInTopList": true
     },
-    "reduxsaga": {
+    "wordpress": {
       "name": "WordPress",
       "logo": "WordPress.com-Logo.wine.svg",
       "website": "https://wordpress.com/",
       "displayInTopList": true
     },
-    "electron": {
+    "bootstrap": {
       "name": "Bootstrap 5",
       "logo": "bootstrap-5-1.svg",
       "website": "https://getbootstrap.com/",
@@ -115,13 +115,13 @@
       "website": "https://datastudio.google.com/",
       "displayInTopList": true
     },
-    "fabric": {
+    "tagmanager": {
       "name": "Tag Manager",
       "logo": "google-tag-manager.svg",
       "website": "https://marketingplatform.google.com/about/tag-manager/",
       "displayInTopList": true
     },
-    "netlify": {
+    "optimize": {
       "name": "Optimize",
       "logo": "google-optimize.svg",
       "website": "https://marketingplatform.google.com/about/optimize/",
@@ -153,36 +153,42 @@
       ]
     },
     "hard": {
-      "featured": ["On-page SEO", "Technical SEO", "Writing and content creation", "Data analysis"],
+      "featured": ["On-page SEO", "Off-page SEO & Link Building", "Technical SEO", "Writing & content creation", "Data analysis"],
       "other": [
-        "Off-page SEO",
-        "Email marketing",
-        "Social media marketing",
+        "Native English",
+        "Fluent Spanish",
+        "Email Marketing",
+        "Social Media Marketing",
+        "Account Based Marketing Experience",
+        "B2B Marketing Experience",
         "PPC",
         "Display ads",
         "Search ads",
         "Social ads",
-        "Schema markup / structured data",
         "Google Analytics",
         "Google Search Console",
         "Google Tag Manager",
         "Google Lighthouse",
         "Google Optimize",
         "WordPress",
+        "OctoberCMS",
+        "CloudCannonCMS",
+        "NetlifyCMS",
         "SEMrush",
         "Moz",
         "Ahrefs",
         "Figma",
-        "Adobe XD",
+        "Adobe",
         "Canva",
+        "Schema markup / structured data",
         "CSS 3",
+        "PHP",
+        "Laravel",
         "Bootstrap 5",
         "Javascript",
         "React",
         "Sass",
-        "HTML 5",
-        "Native English",
-        "Fluent Spanish"
+        "HTML 5"
       ]
     }
   },
@@ -202,8 +208,8 @@
           "role": "Marketing Coordinator",
           "description": "Plan and execute the digital marketing and inbound lead generation strategy for a company specializing in helping North American companies hire remote tech talent in Latin America.",
           "stack": {
-            "me": ["LinkedIn Ads", "Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Moz", "Postaga", "Google Tag Manager", "Google Data Studio", "OctoberCMS", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
-            "all": ["Laravel", "PHP",  "Apache"]
+            "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Moz", "Postaga", "OctoberCMS", "CSS", "Sass", "HTML", "Java Script", "Schema Markup", "Leadfeeder", "Drift", "Hootsuite", "Autopilot", "Hotjar"],
+            "all": ["Laravel", "PHP", "Apache"]
           },
           "achievements": [
             "Develop a strategy for inbound marketing channels (blog, SEO, social media, podcasts, and more.)",
@@ -233,8 +239,8 @@
           "role": "Marketing Coordinator",
           "description": "Resolve Digital builds, optimizes, and maintains innovative eCommerce & SaaS solutions. I was hired to plan and execute their digital marketing and inbound lead generation strategy.",
           "stack": {
-            "me": ["Facebook Ads", "Google Analytics", "Google Search Console", "SEMrush", "Ahrefs", "Postaga", "Google Tag Manager", "Google Data Studio", "CloudCannon CMS", "Jekyll Static Site Generator", "Bootstrap", "CSS", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Drift", "Autopilot", "Hotjar"],
-            "all": ["Ruby", "Google Retargeting Ads"]
+            "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Postaga", "CloudCannon CMS", "Jekyll Static Site Generator", "Bootstrap", "Sass", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Hootsuite", "Drift", "Autopilot", "Hotjar"],
+            "all": ["Ruby"]
           },
           "achievements": [
             "Develop a content, blog, SEO, and social media strategy.",
@@ -263,7 +269,7 @@
           "role": "Marketing Coordinator",
           "description": "Predictable Revenue is a firm offering consulting and outbound business development services. I specialized in SEO but lead and managed several other initiatives related to inbound marketing.",
           "stack": {
-            "me": ["Google Analytics", "Google Search Console", "Google Tag Manager", "Google Data Studio", "WordPress", "Yoast SEO", "Sumo", "Schema Markup", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
+            "me": ["Google Marketing Tools (Analytics, Search Console, etc...)",  "WordPress", "Yoast SEO", "Sumo", "Schema Markup", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
             "all": ["PHP"]
           },
           "achievements": [
