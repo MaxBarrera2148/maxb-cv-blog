@@ -4,7 +4,7 @@ module.exports = {
   title: 'Blog by Max Barrera',
   keywords:
     'marketing freelancer, seo expert, content writer',
-  subtitle: 'Marketer. Optimizer. Learner.',
+  subtitle: 'Digital marketer, specializing in SEO.',
   copyright: '© 2020 | Cancun, Mexico',
   disqusShortname: 'Max',
   postsPerPage: 20,
@@ -15,14 +15,14 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'CV',
+      label: 'Resume',
       path: '/cv'
     }
   ],
   author: {
     name: 'Max Barrera',
     photo: '/image_1.png',
-    bio: 'Marketer. Optimizer. Learner.',
+    bio: 'Digital marketer, specializing in SEO.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
