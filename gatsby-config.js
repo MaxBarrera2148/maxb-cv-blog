@@ -86,7 +86,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Blog by Marat Dospolov'
+            title: 'Blog by Max Barrera'
           }
         ]
       }
@@ -181,7 +181,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#97266d',
         display: 'standalone',
-        icon: 'static/photo.jpg'
+        icon: 'static/image_1.png'
       }
     },
     'gatsby-plugin-catch-links',
