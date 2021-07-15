@@ -4,7 +4,7 @@ module.exports = {
   title: 'Blog by Max Barrera',
   keywords:
     'marketing freelancer, seo expert, content writer',
-  subtitle: 'Digital marketer, specializing in SEO.',
+  subtitle: 'Marketer, specializing in SEO.',
   copyright: '© 2020 | Cancun, Mexico',
   disqusShortname: 'Max',
   postsPerPage: 20,
@@ -22,7 +22,7 @@ module.exports = {
   author: {
     name: 'Max Barrera',
     photo: '/image_1.png',
-    bio: 'Digital marketer, specializing in SEO.',
+    bio: 'Marketer, specializing in SEO.',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
