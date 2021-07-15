@@ -1,7 +1,7 @@
 {
   "header": {
     "name": "MAX BARRERA",
-    "position": "DIGITAL MARKETER",
+    "position": "MARKETER & SEO SPECIALIST",
     "img": {
       "src": "/logo.png",
       "alt": "Max Barrera"
@@ -12,6 +12,11 @@
         "type": "linkedin",
         "link": "www.linkedin.com/in/maxb-2148",
         "linkName": "maxb-2148"
+      },
+      {
+        "type": "dev.to",
+        "link": "https://dev.to/maxbarrera2148",
+        "linkName": "maxbarrera2148"
       },
       {
         "type": "github",
@@ -25,14 +30,14 @@
       "name": "The Predictable Revenue Podcast",
       "locationIcon": "descarga__2_-removebg-preview.png",
       "description": "Where frontline Sales Leaders teach you how to build and scale an Outbound Sales Team.",
-      "builtWith": ["wordpress", "analytics"],
+      "builtWith": ["wordpress", "youtube", "searchconsole", "analytics"],
       "link": "https://www.youtube.com/channel/UCaQX8Um5FmYKfDFZO8a9vyw"
     },
     {
       "name": "Outsourcing Oasis Podcast",
       "locationIcon": "1591730797476-removebg-preview.png",
       "description": "Join us on our journey to demystify outsourcing and remote team management.",
-      "builtWith": ["octobercms", "bootstrap", "analytics"],
+      "builtWith": ["octobercms", "bootstrap", "youtube", "searchconsole", "analytics"],
       "link": "https://www.bluecoding.com/outsourcing-oasis-podcast"
     },
     {
@@ -103,10 +108,10 @@
       "website": "https://octobercms.com/",
       "displayInTopList": false
     },
-       "cloudcannon": {
-      "name": "CloudCannonCMS",
-      "logo": "descarga (3).png",
-      "website": "https://cloudcannon.com/",
+       "youtube": {
+      "name": "Youtube",
+      "logo": "yt_icon_rgb.png",
+      "website": "https://www.youtube.com/",
       "displayInTopList": false
     },
     "datastudio": {
