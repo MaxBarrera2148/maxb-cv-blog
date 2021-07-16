@@ -16,7 +16,7 @@ const SkillList = ({ skills }) => (
         <Col span={11}>
           <div>
             {skills.soft.featured.map(skill => (
-              <Tag color="#722ed1" key={skill} className="mb-1 text-base">
+              <Tag color="#00483c" key={skill} className="mb-1 text-base">
                 {skill}
               </Tag>
             ))}
@@ -30,7 +30,7 @@ const SkillList = ({ skills }) => (
         <Col span={11} offset={1}>
           <div>
             {skills.hard.featured.map(skill => (
-              <Tag color="#1890ff" key={skill} className="mb-1 text-base">
+              <Tag color="#00ffd4" key={skill} className="mb-1 text-base">
                 {skill}
               </Tag>
             ))}
