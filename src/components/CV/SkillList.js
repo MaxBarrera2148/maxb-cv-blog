@@ -22,7 +22,7 @@ const SkillList = ({ skills }) => (
             ))}
           </div>
           {skills.soft.other.map(skill => (
-            <Tag color="purple" key={skill} className="mb-1 text-base">
+            <Tag color="green" key={skill} className="mb-1 text-base">
               {skill}
             </Tag>
           ))}
