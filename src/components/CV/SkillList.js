@@ -5,10 +5,10 @@ const SkillList = ({ skills }) => (
   <div>
     <Row type="flex" justify="space-around">
       <Col span={11}>
-        <h3 className="text-center mt-10 mb-5">Soft skills</h3>
+        <h3 className="text-center mt-10 mb-5">Tools & Software</h3>
       </Col>
       <Col span={11} offset={1}>
-        <h3 className="text-center mt-10 mb-5">Hard skills</h3>
+        <h3 className="text-center mt-10 mb-5">Skills & Experience</h3>
       </Col>
     </Row>
     <Card className="">
