@@ -36,7 +36,7 @@ const SkillList = ({ skills }) => (
             ))}
           </div>
           {skills.hard.other.map(skill => (
-            <Tag color="blue" key={skill} className="mb-1 text-base">
+            <Tag color="turquoise" key={skill} className="mb-1 text-base">
               {skill}
             </Tag>
           ))}
