@@ -30,13 +30,13 @@ const SkillList = ({ skills }) => (
         <Col span={11} offset={1}>
           <div>
             {skills.hard.featured.map(skill => (
-              <Tag color="#00ffd4" key={skill} className="mb-1 text-base">
+              <Tag color="#1890ff" key={skill} className="mb-1 text-base">
                 {skill}
               </Tag>
             ))}
           </div>
           {skills.hard.other.map(skill => (
-            <Tag color="turquoise" key={skill} className="mb-1 text-base">
+            <Tag color="blue" key={skill} className="mb-1 text-base">
               {skill}
             </Tag>
           ))}
