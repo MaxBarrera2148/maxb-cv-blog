@@ -153,7 +153,15 @@
         "Audio Production",
         "Video Production",
         "Native English",
-        "Fluent Spanish"
+        "Fluent Spanish",
+        "Creativity",
+        "Organization.",
+        "Adaptability",
+        "Emotional intelligence",
+        "Problem-solving",
+        "Stress management",
+        "Public speaking",
+        "Focus on business needs"
       ]
     },
     "hard": {
@@ -175,6 +183,27 @@
     }
   },
   "experience": [
+  
+           {
+      "company": {
+        "name": "Administrative Software Applications",
+        "period": "July 2016 - October 2018",
+        "logoHeight": 40,
+        "logo": ""
+      },
+      "projects": [
+        {
+          "name": "",
+          "logoHeight": 40,
+          "logo": "",
+          "role": "Product Specialist & Support Team Lead",
+          "description": "February 2017 - October 2018",
+          "stack": {
+            "me": ["Google Analytics", "HTML", "CSS", "Camtasia", "Youtube", "PowerPoint", "Excel", "Jira", "Mailchimp", "SendGrid", "Microsoft Teams", "Zendesk"],
+            "all": [".Net", "Salesforce"]
+          }
+        },
+    
     {
       "company": {
         "name": "Blue Coding",
