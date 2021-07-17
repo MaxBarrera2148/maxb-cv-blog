@@ -181,29 +181,29 @@
         "Project Management Tools (e.g. Asana)"
       ]
     }
-  },
+  }, 
   "experience": [
   
 {
       "company": {
-        "name": "Blue Coding",
+        "name": "Freelance",
         "logoHeight": 40,
         "logo": "",
-        "period": "January 2020 - April 2021"
+        "period": "April 2021 - Present"
       },
       "projects": [
         {
           "name": "Freelance",
           "logoHeight": 40,
           "logo": "",
-          "role": "Marketer & SEO specialist",
-          "description": "",
+          "role": "Marketer",
+          "description": "Providing general marketing services for several software products at different stages of the product development lifecycle.",
           "stack": {
-            "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Moz", "Postaga", "OctoberCMS", "CSS", "Sass", "HTML", "Java Script", "Schema Markup", "Leadfeeder", "Drift", "Hootsuite", "Loom", "Autopilot", "Hotjar"],
-            "all": ["Laravel", "PHP", "Apache"]
+            "me": ["Google Ads", "Google Keyword Planner", "SEMrush", "SparkToro", "Product Hunt"],
+            "all": ["None"]
           },
           "achievements": [
-            ""
+            "Develop the pre-product launch strategy for a contract management platform."
           ]
         }
       ]
