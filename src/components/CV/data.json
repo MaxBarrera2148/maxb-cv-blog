@@ -184,25 +184,30 @@
   },
   "experience": [
   
-           {
+{
       "company": {
-        "name": "Administrative Software Applications",
-        "period": "July 2016 - October 2018",
+        "name": "Blue Coding",
         "logoHeight": 40,
-        "logo": ""
+        "logo": "",
+        "period": "January 2020 - April 2021"
       },
       "projects": [
         {
-          "name": "",
+          "name": "Freelance",
           "logoHeight": 40,
           "logo": "",
-          "role": "Product Specialist & Support Team Lead",
-          "description": "February 2017 - October 2018",
+          "role": "Marketer & SEO specialist",
+          "description": "",
           "stack": {
-            "me": ["Google Analytics", "HTML", "CSS", "Camtasia", "Youtube", "PowerPoint", "Excel", "Jira", "Mailchimp", "SendGrid", "Microsoft Teams", "Zendesk"],
-            "all": [".Net", "Salesforce"]
-          }
-        },
+            "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Moz", "Postaga", "OctoberCMS", "CSS", "Sass", "HTML", "Java Script", "Schema Markup", "Leadfeeder", "Drift", "Hootsuite", "Loom", "Autopilot", "Hotjar"],
+            "all": ["Laravel", "PHP", "Apache"]
+          },
+          "achievements": [
+            ""
+          ]
+        }
+      ]
+    },
     
     {
       "company": {
