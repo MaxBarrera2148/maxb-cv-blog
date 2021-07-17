@@ -157,17 +157,19 @@
       ]
     },
     "hard": {
-      "featured": ["CMS Experience (WordPress, CloudCannonCMS, etc…)", "SEO Tools (SEMrush, Moz, etc…)", "Google Marketing Tools (GTM, GA, SC, etc...)", "Graphic Design Tools (Adobe, Canva, etc...)", "CRM Experience (Hubspot, Salesforce, etc...)"],
+      "featured": ["CMS Experience (e.g. WordPress)", "SEO Tools (e.g. SEMrush)", "Google Marketing Tools (e.g. Search Console)", "Graphic Design Tools (e.g. Adobe)", "CRM Experience (e.g. Hubspot)"],
       "other": [
-        "Programming experience (React, PHP, Sass, etc... )",
+        "Programming experience (e.g. React)",
         "CSS (4+ yrs)",
         "HTML (4+ yrs)",
         "Java Script (2+ yrs)",
         "Bootstrap (2+ yrs)",
         "Schema markup / structured data (3+ yrs)",
-        "Social Media Automation Tools (Hootsuite, Buffer, etc...)",
-        "Email Marketing Automation (MailChimp, Autopilot, etc...)",
+        "Social Media Automation Tools (e.g. Hootsuite)",
+        "Email Marketing Automation (e.g. Autopilot)",
         "Hotjar - Heatmaps & Behavior Analytics Tool",
+        "ChatBots (e.g. Drift)",
+         "Event Marketing Tools (e.g. Eventbrite)",
         "LeadFeeder - B2B Website Visitor Tracking Software"
       ]
     }
@@ -188,7 +190,7 @@
           "role": "Marketing Coordinator",
           "description": "Plan and execute the digital marketing and inbound lead generation strategy for a company specializing in helping North American companies hire remote tech talent in Latin America.",
           "stack": {
-            "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Moz", "Postaga", "OctoberCMS", "CSS", "Sass", "HTML", "Java Script", "Schema Markup", "Leadfeeder", "Drift", "Hootsuite", "Autopilot", "Hotjar"],
+            "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Moz", "Postaga", "OctoberCMS", "CSS", "Sass", "HTML", "Java Script", "Schema Markup", "Leadfeeder", "Drift", "Hootsuite", "Loom", "Autopilot", "Hotjar"],
             "all": ["Laravel", "PHP", "Apache"]
           },
           "achievements": [
@@ -249,7 +251,7 @@
           "role": "Marketing Coordinator",
           "description": "Predictable Revenue is a firm offering consulting and outbound business development services. I specialized in SEO but lead and managed several other initiatives related to inbound marketing.",
           "stack": {
-            "me": ["Google Marketing Tools (Analytics, Search Console, etc...)",  "WordPress", "Yoast SEO", "Sumo", "Schema Markup", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Autopilot", "Salesforce", "Hotjar"],
+            "me": ["Google Marketing Tools (Analytics, Search Console, etc...)",  "WordPress", "Yoast SEO", "Sumo", "Schema Markup", "Moz", "BuzzSumo", "Social Pilot", "Unbounce", "Zoom Info", "DiscoverOrg", "Drift", "Zoom", "Wistia", "Autopilot", "Salesforce", "Hotjar"],
             "all": ["PHP"]
           },
           "achievements": [
