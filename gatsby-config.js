@@ -181,7 +181,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#97266d',
         display: 'standalone',
-        icon: 'static/Group 23.png'
+        icon: 'static/Group 24.png'
       }
     },
     'gatsby-plugin-catch-links',
