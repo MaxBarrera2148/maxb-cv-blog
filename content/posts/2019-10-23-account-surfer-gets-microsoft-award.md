@@ -28,7 +28,7 @@ So what does the API do? Well, the API isn’t the server, but it is what allows
 
 [![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--N-AEzkRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/m0swv2rwptklydrpq74w.jpg)](https://res.cloudinary.com/practicaldev/image/fetch/s--N-AEzkRi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/m0swv2rwptklydrpq74w.jpg)
 
-## [](https://dev.to/bluecoding/what-is-an-api-and-how-does-it-work-4jee#on-an-ownership-level-there-are-four-main-types-of-apis)On an ownership level, there are four main types of APIs.
+## [](https://dev.to/bluecoding/what-is-an-api-and-how-does-it-work-4jee#on-an-ownership-level-there-are-four-main-types-of-apis)On an ownership level, there are three main types of APIs.
 
 **Open APIs** are publicly available for all developers to access without restrictions.
 
