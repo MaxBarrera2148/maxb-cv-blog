@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© 2020 | Cancun, Mexico',
   disqusShortname: 'Max',
   postsPerPage: 20,
-  googleAnalyticsId: 'UA-6589522-7',
+  googleAnalyticsId: 'G-KPM242J0EN',
   menu: [
     {
       label: 'Blog',
@@ -33,7 +33,7 @@ module.exports = {
       instagram: '',
       facebook: '',
       email: 'm.a.barrera6248@gmail.com',
-      rss: '/rss.xml'
+      rss: ''
     }
   }
 }
