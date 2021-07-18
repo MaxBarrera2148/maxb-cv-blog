@@ -5,7 +5,7 @@ const Header = ({ header }) => (
   <Row type="flex" justify="space-around" align="middle">
     <Col span={2} className="hide-mobile">
       <a href="/cv.pdf" target="_blank" className="no-print">
-        <img src="/logos/pdf.svg" height="50" alt="pdf icon" />
+        <img src="/logos/MAX CV.pdf" height="50" alt="pdf icon" />
       </a>
     </Col>
     <Col span={8} className="text-right">
