@@ -52,9 +52,9 @@
   "topTech": [
     "react",
     "wordpress",
+    "searchconsole",
     "googleads",
     "analytics",
-    "searchconsole",
     "datastudio",
     "tagmanager",
     "optimize"
@@ -203,7 +203,7 @@
             "all": ["None"]
           },
           "achievements": [
-            "Develop the pre-product launch strategy for a contract management platform."
+            "Develop the pre-product launch strategy for a SaaS contract management platform."
           ]
         }
       ]
