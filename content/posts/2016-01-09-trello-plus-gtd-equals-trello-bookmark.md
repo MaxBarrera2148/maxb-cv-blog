@@ -49,13 +49,9 @@ With offshoring, we recommend working with an agency or outsourcing partner over
 
 ### Nearshore software development definition
 
-
-
 ![Latin American city](/media/nearshore-outsourcing-software-development.jpg)
 
-<!--StartFragment-->
-
-**[Nearshore software development](https://www.bluecoding.com/nearshore-software-development-services)**refers to hiring foreign talent in countries with timezone parity or at least significant time zone overlap.
+**[Nearshore software development](https://www.bluecoding.com/nearshore-software-development-services)** refers to hiring foreign talent in countries with timezone parity or at least significant time zone overlap.
 
 It’s hard to say exactly when *nearshore* becomes *offshore.* We've even seen companies in Europe and Africa referred to as "nearshore" in the past, despite having a six-hour plus time difference with North America.
 
@@ -93,7 +89,7 @@ Working with a team that can’t communicate effectively is not an option, espec
 
 With nearshore development, you can maintain close control of your projects. Your partner is nearby allowing you to communicate clearly and collaborate in real-time.
 
-You can say that with nearshore development you get thebest of both worlds. You see significant cost benefits without sacrificing efficiency or compromising on quality.
+You can say that with nearshore development you get the best of both worlds. You see significant cost benefits without sacrificing efficiency or compromising on quality.
 
 Interested in working with skilled nearshore development talent? Learn about our **[nearshore staff augmentation services](https://www.bluecoding.com/nearshore-staff-augmentation-services)**.
 
@@ -106,7 +102,7 @@ You’ll need to pay special attention to English proficiency, something that’
 ## Conclusion
 
 * Outsourcing allows you to outperform larger competitors by accessing untapped talent markets, lowering your operating costs, and allowing you to complete projects faster.
-* Finding the right outsourcing partner is one of the most important aspects of making *onshore*, *nearshore*, or*offshore* development work.
+* Finding the right outsourcing partner is one of the most important aspects of making *onshore*, *nearshore*, or *offshore* development work.
 * Increasing globalization and wider adoption of remote work culture, have lowered the barrier for outsourcing.
 
 Haven't decided which option makes the most sense for your business? Book a free **[outsourcing strategy call](https://www.bluecoding.com/contact-us)**, to find out if nearshore development is right for you.
