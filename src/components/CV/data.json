@@ -198,12 +198,12 @@
           "logo": "",
           "role": "Marketer",
           "description": "Providing general marketing services for several software products at different stages of the product development lifecycle.",
-          "stack": 
+          "stack": {
             "me": ["Google Ads", "Google Keyword Planner", "SEMrush", "SparkToro", "Product Hunt"],
             "all": ["None"]
           },
           "achievements": [
-            "DHelping develop the go-to-market strategy for a SaaS contract management platform."
+            "Help develop the go-to-market strategy for a SaaS contract management platform."
           ]
         }
       ]
