@@ -48,7 +48,7 @@
       "link": "https://www.bluecoding.com/blog"
     }
   ],
-  "pitchLine": "My passions are — Marketing, writing, design, SEO, and web development.",
+  "pitchLine": "My passions are — marketing, design, SEO, and web development.",
   "topTech": [
     "react",
     "wordpress",
@@ -177,7 +177,7 @@
         "Email Marketing Automation (e.g. Autopilot)",
         "Website Optimization and CRO Tools (e.g. Google Optimize, Hotjar)",
         "ChatBots (e.g. Drift)",
-         "Event Marketing Tools (e.g. Eventbrite)",
+        "Event Marketing Tools (e.g. Eventbrite)",
         "Project Management Tools (e.g. Asana)"
       ]
     }
@@ -198,12 +198,12 @@
           "logo": "",
           "role": "Marketer",
           "description": "Providing general marketing services for several software products at different stages of the product development lifecycle.",
-          "stack": {
+          "stack": 
             "me": ["Google Ads", "Google Keyword Planner", "SEMrush", "SparkToro", "Product Hunt"],
             "all": ["None"]
           },
           "achievements": [
-            "Develop the pre-product launch strategy for a SaaS contract management platform."
+            "DHelping develop the go-to-market strategy for a SaaS contract management platform."
           ]
         }
       ]
@@ -222,20 +222,21 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Marketing Coordinator",
-          "description": "Plan and execute the digital marketing and inbound lead generation strategy for a company specializing in helping North American companies hire remote tech talent in Latin America.",
+          "description": "Plan and execute the digital marketing and inbound lead generation strategy for a company specializing in recruiting tech talent in Latin America.",
           "stack": {
             "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Moz", "Postaga", "OctoberCMS", "CSS", "Sass", "HTML", "Java Script", "Schema Markup", "Leadfeeder", "Drift", "Hootsuite", "Loom", "Autopilot", "Hotjar"],
             "all": ["Laravel", "PHP", "Apache"]
           },
           "achievements": [
-            "Develop a strategy for inbound marketing channels (blog, SEO, social media, podcasts, and more.)",
-            "Monitor and report on marketing goals and KPIs including website, social media, ad campaign, and Youtube analytics.",
-            "Co-produce a podcast with DevChat.tv called Outsourcing Oasis",
-            "Rebrand the podcast and publish it on our Youtube channel and website.",
+            "Develop a strategy for inbound marketing channels (SEO, social media, blog, and more.)",
+            "Monitor and report on marketing goals and KPIs including website, ad campaign, and social media analytics.",
+            "Create graphics and write copy for new landing pages, blog articles, ad campaigns, and more.",
+            "We went from nearly zero website traffic to a couple thousand users a month with good user engagement metrics.",
             "Create marketing assets like ebooks, newsletter, blog articles, and more.",
             "We went from nearly zero website traffic to a couple thousand users a month with good user engagement metrics",
             "Search traffic is now the main user acquisition channel responsible for more than 70% of our website’s traffic.",
-            "I wrote 90% of our blog articles including the article with the highest estimated traffic value based on organic keyword rankings."
+            "Improved SEO site audit scores with tools like SEMrush to 100%.",
+            "I wrote 90% of our blog articles including the article with the highest estimated traffic value based on organic keyword rankings. The organic traffic has a keyword value of around $700 - $2,000 usd per month (depending on the source.)"
           ]
         }
       ]
@@ -253,7 +254,7 @@
           "logoHeight": 40,
           "logo": "",
           "role": "Marketing Coordinator",
-          "description": "Resolve Digital builds, optimizes, and maintains innovative eCommerce & SaaS solutions. I was hired to plan and execute their digital marketing and inbound lead generation strategy.",
+          "description": "Resolve Digital builds, optimizes, and maintains innovative eCommerce & SaaS solutions. I was hired to plan and execute the inbound lead generation and digital marketing strategy.",
           "stack": {
             "me": ["Social Media Ads", "Google Marketing Tools (Analytics, Search Console, etc...)", "SEMrush", "Ahrefs", "Postaga", "CloudCannon CMS", "Jekyll Static Site Generator", "Bootstrap", "Sass", "HTML", "Java Script", "Markdown", "Schema Markup", "Leadfeeder", "Hootsuite", "Drift", "Autopilot", "Hotjar"],
             "all": ["Ruby"]
@@ -262,8 +263,8 @@
             "Develop a content, blog, SEO, and social media strategy.",
             "Monitor and report on marketing goals and KPIs including website, social media, and ad campaignan alytics.",
             "Audit website and existing content to develop a plan to replicate previously favorable SEO results.",
-            "Create blog content, social media posts, new case studies, technologies we work with pages, and more.",
-            "Added roughly 25+ new referring domains and 550+ backlinks in seven months.",
+            "Create graphics and write copy for new website pages, blog articles, social media posts, ads and more.",
+            "Added roughly 25+ new referring domains and 550+ backlinks in seven months through establishing content partnerships, building a podcast strategy (sponsorships, guest appearances, etc.), adding our company to relevant directories, and outreach campaigns.",
             "Developed the idea, helped research, and edited our best-performing article (Spree vs. Solidus: Which is Right For You - 2020 Update.)"
           ]
         }
@@ -290,12 +291,12 @@
           },
           "achievements": [
             "Manage our website (WordPress.)",
-            "Monitor and report on marketing goals and KPIs including website, social media, ad campaign, newsletter, and youtube analytics.",
-            "Manage content & blog.",
+            "Monitor and report on marketing goals and KPIs including website, social media, ad campaign, newsletter, and Youtube analytics.",
+            "Create graphics and write copy for social media posts, blog articles, new landing pages and more.",
             "Manage social media and community profiles.",
             "Optimize content for performance and SEO.",
             "Helped develop and plan Sales Efficiency Quiz.",
-            "Added 80+ referring domains in six months.",
+            "Ran multiple link building campaigns which resulted in adding 80+ referring domains in six months.",
             "Extensive updates to on-page and technical SEO likely played a role in increasing overall website traffic by 46% during my tenure."
           ]
         }
