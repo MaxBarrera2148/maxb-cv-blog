@@ -4,7 +4,7 @@ import { Row, Col } from 'antd'
 const Header = ({ header }) => (
   <Row type="flex" justify="space-around" align="middle">
     <Col span={2} className="hide-mobile">
-      <a href="/MAX CV.pdf" target="_blank" className="no-print">
+      <a href="/CV Max Barrera (2).pdf" target="_blank" className="no-print">
         <img src="/logos/pdf.svg" height="50" alt="pdf icon" />
       </a>
     </Col>
