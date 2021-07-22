@@ -3,7 +3,7 @@ template: post
 title: Choosing the Right Tech Stack for your eCommerce Store
 slug: /posts/choosing-tech-stack-ecommerce-store
 draft: false
-priority: 1
+priority: 7
 date: 2021-07-13T00:50:49.531Z
 description: We review popular eCommerce tech stacks, as well as useful software
   that can help your eCommerce store capture more sales and delight your
