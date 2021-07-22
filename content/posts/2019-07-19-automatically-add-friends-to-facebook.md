@@ -3,7 +3,7 @@ template: post
 title: Choosing the Right Tech Stack for your eCommerce Store
 slug: /posts/choosing-tech-stack-ecommerce-store
 draft: false
-priority: 5
+priority: 1
 date: 2021-07-13T00:50:49.531Z
 description: We review popular eCommerce tech stacks, as well as useful software
   that can help your eCommerce store capture more sales and delight your
@@ -34,7 +34,7 @@ The client-side or front end is the part of your website that is visible to the 
 * **Cascading Style Sheets (CSS)** is what you use to style and position the individual elements on your page including shape, size, color, and fonts. This also is how you build the layout of your website.
 
   * CSS frameworks provide predefined web elements that allow you to build elegant and responsive websites faster and more efficiently. Some popular CSS frameworks include Bootstrap, Foundation, and Materialize.
-* JavaScript (JS) is what makes your website interactive. Beyond interactivity, JavaScript also provides real-time data updates and animation options. Javascript comes with frameworks and libraries that allow you to perform tasks in a less verbose way.
+* **JavaScript (JS)** is what makes your website interactive. Beyond interactivity, JavaScript also provides real-time data updates and animation options. Javascript comes with frameworks and libraries that allow you to perform tasks in a less verbose way.
 
   * Popular frameworks include: Angular, Vue.js, Node.js,
   * Popular libraries include: jQuery and React.js
@@ -46,9 +46,9 @@ While the back end isn’t visible to end-users the same way the front end is, i
 When it comes to choosing a server-side programming language for your project, there are many factors to take into consideration, including developer availability, average cost of talent, scalability, and performance.
 
 Popular programming languages and frameworks include:\
-PHP: Laravel, Symfony, Phalcon, Slim\
-Ruby: Ruby on Rails, Sinatra, Padrino\
-Python: Django, Flask, Pylons
+**PHP**: Laravel, Symfony, Phalcon, Slim\
+**Ruby**: Ruby on Rails, Sinatra, Padrino\
+**Python**: Django, Flask, Pylons
 
 You’ll need a way to store data – that’s where your database comes into play. Common databases include MySQL, PostgreSQL, MongoDB, DynamoDB, and Firebase Database.
 
@@ -62,13 +62,14 @@ Lastly, you’ll need a server to handle requests from clients. Some popular opt
 
 What could be considered the third component of your eCommerce technology stack are third party services and software that provide additional functionality to your online store – for example, working with a payment gateway to process payments online or improving customer experience through marketing automation software.
 
-These tools not only save you development time, but they can also significantly improve your bottom line by saving you money and helping generate more sales.
+These tools not only save you development time, but can also significantly improve your bottom line by saving you money and helping generate more sales.
 
-Fast facts about eCommerce:\
-Around 50% of participants said that the number one reason for abandonment during check out is the high costs. (Baymard Institute)\
-It’s expected that more than 95% of all purchases to be conducted via eCommerce by 2040. (Nasdaq)\
-Around 9% of respondents said they used voice technology to shop once a week or more frequently. (PricewaterhouseCoopers)\
-Of 1,888 interviewed U.S online consumers, around 40% said that the reason why they didn’t make a purchase was that it wouldn’t arrive on time. Around 20% of them reported that they didn’t order a product because the delivery date was not precise. (eCommerce Consumer Insights Report)
+Fast facts about eCommerce:
+
+* Around 50% of participants said that the number one reason for abandonment during check out is the high costs. (Baymard Institute)
+* It’s expected that more than 95% of all purchases to be conducted via eCommerce by 2040. (Nasdaq)
+* Around 9% of respondents said they used voice technology to shop once a week or more frequently. (PricewaterhouseCoopers)
+* Of 1,888 interviewed U.S online consumers, around 40% said that the reason why they didn’t make a purchase was that it wouldn’t arrive on time. Around 20% of them reported that they didn’t order a product because the delivery date was not precise. (eCommerce Consumer Insights Report)
 
 ### [](https://dev.to/maxbarrera2148/choosing-the-right-tech-stack-for-your-ecommerce-store-47ce#pricing-software)Pricing software
 
