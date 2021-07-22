@@ -30,12 +30,14 @@ Your technology stack is the collection of programming languages, frameworks, an
 
 The client-side or front end is the part of your website that is visible to the public. It's the interface customers see when they visit your online store. The main components you’ll use to shape and design the look of your website are HTML, CSS, and JS.
 
-Hypertext markup language (HTML) is what gives a web page its structure, and tells the browser how to read the different elements on the page including headings, lists, links, images, and so on.\
-Cascading Style Sheets (CSS) is what you use to style and position the individual elements on your page including shape, size, color, and fonts. This also is how you build the layout of your website.\
-CSS frameworks provide predefined web elements that allow you to build elegant and responsive websites faster and more efficiently. Some popular CSS frameworks include Bootstrap, Foundation, and Materialize.\
-JavaScript (JS) is what makes your website interactive. Beyond interactivity, JavaScript also provides real-time data updates and animation options. Javascript comes with frameworks and libraries that allow you to perform tasks in a less verbose way.\
-Popular libraries include: jQuery and React.js\
-Popular frameworks include: Angular, Vue.js, Node.js,
+* **Hypertext markup language (HTML)** is what gives a web page its structure, and tells the browser how to read the different elements on the page including headings, lists, links, images, and so on.
+* **Cascading Style Sheets (CSS)** is what you use to style and position the individual elements on your page including shape, size, color, and fonts. This also is how you build the layout of your website.
+
+  * CSS frameworks provide predefined web elements that allow you to build elegant and responsive websites faster and more efficiently. Some popular CSS frameworks include Bootstrap, Foundation, and Materialize.
+* JavaScript (JS) is what makes your website interactive. Beyond interactivity, JavaScript also provides real-time data updates and animation options. Javascript comes with frameworks and libraries that allow you to perform tasks in a less verbose way.
+
+  * Popular frameworks include: Angular, Vue.js, Node.js,
+  * Popular libraries include: jQuery and React.js
 
 ### [](https://dev.to/maxbarrera2148/choosing-the-right-tech-stack-for-your-ecommerce-store-47ce#back-end-technology-stack)Back end technology stack
 
